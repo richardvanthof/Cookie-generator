@@ -1,0 +1,13 @@
+category,actions,phase
+peel,"peel",preperatory
+cut,"chop, cut, grind",preperatory
+mix,"add, beat, blend, combine, cream, fold, mix, pour, sift, stir, whisk",preperatory
+melt,"heat, melt",preperatory
+coat,"coat, glaze, dip",preperatory
+prepare,"prepare",preperatory
+apply,"brush, knead, press, rub, spread, squeeze",preperatory
+cool,"chill, cool, freeze",cooking
+bake,"bake, cook, grill",cooking
+shape,"form, roll, shape, flatten",preperatory
+cover,"cover, wrap",preperatory
+finish,"decorate, drizzle, dust, fill, sandwich, serve, spoon, sprinkle",Post-cooking
