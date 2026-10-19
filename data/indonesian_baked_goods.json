@@ -1,0 +1,207 @@
+{
+"results": [
+  {
+    "name": "Es Kelapa Muda (Indofood)",
+    "family": "drink",
+    "servings": 1,
+    "source": "https://arc.net/l/quote/zikegnul",
+    "ingredients": [
+      { "name": "young coconut water", "amount": 240, "unit": "ml", "flavour": "sweet", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "young coconut flesh", "amount": 75, "unit": "g", "flavour": "sweet", "type": "Produce", "cons": "SOLID" },
+      { "name": "sugar syrup", "amount": 15, "unit": "ml", "flavour": "sweet", "type": "Baking", "cons": "LIQUID" },
+      { "name": "ice", "amount": 100, "unit": "g", "flavour": "none", "type": "Frozen", "cons": "SOLID" },
+      { "name": "pandan leaf", "amount": 5, "unit": "g", "flavour": "aromatic", "type": "Spices and Seasonings", "cons": "SOLID" }
+    ]
+  },
+  {
+    "name": "Es Alpukat",
+    "family": "drink",
+    "servings": 1,
+    "source": "https://www.indofoodstore.com/blogs/news/es-alpukat-recipe-indonesian-ingredients",
+    "ingredients": [
+      { "name": "avocado", "amount": 150, "unit": "g", "flavour": "creamy", "type": "Produce", "cons": "SOLID" },
+      { "name": "sweetened condensed milk", "amount": 20, "unit": "g", "flavour": "sweet", "type": "Milk, Eggs, Other Dairy", "cons": "LIQUID" },
+      { "name": "chocolate syrup", "amount": 20, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "LIQUID" },
+      { "name": "sugar", "amount": 4, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
+      { "name": "basil seed", "amount": 3, "unit": "g", "flavour": "none", "type": "Health Foods", "cons": "SOLID" },
+      { "name": "ice", "amount": 80, "unit": "g", "flavour": "none", "type": "Frozen", "cons": "SOLID" },
+      { "name": "water", "amount": 60, "unit": "ml", "flavour": "none", "type": "Beverages", "cons": "LIQUID" }
+    ]
+  },
+  {
+    "name": "Es Cendol",
+    "family": "drink",
+    "servings": 1,
+    "source": "https://www.indofoodstore.com/blogs/news/es-cendol-recipe-indonesian-ingredients-video",
+    "ingredients": [
+      { "name": "mung bean starch", "amount": 100, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
+      { "name": "pandan juice", "amount": 500, "unit": "ml", "flavour": "aromatic", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "salt", "amount": 2, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" },
+      { "name": "palm sugar", "amount": 200, "unit": "g", "flavour": "sweet", "type": "Ethnic Foods", "cons": "SOLID" },
+      { "name": "water", "amount": 100, "unit": "ml", "flavour": "none", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "pandan leaf", "amount": 10, "unit": "g", "flavour": "aromatic", "type": "Spices and Seasonings", "cons": "SOLID" },
+      { "name": "coconut milk", "amount": 250, "unit": "ml", "flavour": "creamy", "type": "Canned and Jarred", "cons": "LIQUID" },
+      { "name": "ice", "amount": 150, "unit": "g", "flavour": "none", "type": "Frozen", "cons": "SOLID" }
+    ]
+  },
+  {
+    "name": "Es Teler",
+    "family": "drink",
+    "servings": 1,
+    "source": "https://www.indofoodstore.com/blogs/news/es-teler-recipe-indonesian-ingredients",
+    "ingredients": [
+      { "name": "young coconut flesh", "amount": 150, "unit": "g", "flavour": "sweet", "type": "Produce", "cons": "SOLID" },
+      { "name": "jackfruit", "amount": 150, "unit": "g", "flavour": "sweet", "type": "Produce", "cons": "SOLID" },
+      { "name": "avocado", "amount": 150, "unit": "g", "flavour": "creamy", "type": "Produce", "cons": "SOLID" },
+      { "name": "coconut milk", "amount": 240, "unit": "ml", "flavour": "creamy", "type": "Canned and Jarred", "cons": "LIQUID" },
+      { "name": "sweetened condensed milk", "amount": 150, "unit": "g", "flavour": "sweet", "type": "Milk, Eggs, Other Dairy", "cons": "LIQUID" },
+      { "name": "cocopandan syrup", "amount": 22, "unit": "ml", "flavour": "sweet", "type": "Ethnic Foods", "cons": "LIQUID" },
+      { "name": "ice", "amount": 160, "unit": "g", "flavour": "none", "type": "Frozen", "cons": "SOLID" },
+      { "name": "pandan leaf", "amount": 5, "unit": "g", "flavour": "aromatic", "type": "Spices and Seasonings", "cons": "SOLID" }
+    ]
+  },
+  {
+    "name": "Es Delima",
+    "family": "drink",
+    "servings": 1,
+    "source": "https://www.indofoodstore.com/blogs/news/es-delima-recipe-indonesian-ingredients",
+    "ingredients": [
+      { "name": "water chestnut", "amount": 80, "unit": "g", "flavour": "none", "type": "Canned and Jarred", "cons": "SOLID" },
+      { "name": "food colouring", "amount": 0.5, "unit": "ml", "flavour": "none", "type": "Baking", "cons": "LIQUID" },
+      { "name": "tapioca starch", "amount": 60, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
+      { "name": "coconut milk", "amount": 240, "unit": "ml", "flavour": "creamy", "type": "Canned and Jarred", "cons": "LIQUID" },
+      { "name": "sugar", "amount": 20, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
+      { "name": "salt", "amount": 3, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" },
+      { "name": "ice", "amount": 150, "unit": "g", "flavour": "none", "type": "Frozen", "cons": "SOLID" },
+      { "name": "cocopandan syrup", "amount": 15, "unit": "ml", "flavour": "sweet", "type": "Ethnic Foods", "cons": "LIQUID" }
+    ]
+  },
+  {
+    "name": "Es Kelapa Jeruk (Cookpad)",
+    "family": "drink",
+    "servings": 6,
+    "source": "https://cookpad.com/id/resep/26638317?search_term=es+kelapa+muda",
+    "ingredients": [
+      { "name": "basil seed", "amount": 3, "unit": "g", "flavour": "none", "type": "Health Foods", "cons": "SOLID" },
+      { "name": "young coconut water", "amount": 350, "unit": "ml", "flavour": "sweet", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "young coconut flesh", "amount": 150, "unit": "g", "flavour": "sweet", "type": "Produce", "cons": "SOLID" },
+      { "name": "orange juice", "amount": 300, "unit": "ml", "flavour": "acidity", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "sugar", "amount": 38, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
+      { "name": "water", "amount": 200, "unit": "ml", "flavour": "none", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "ice", "amount": 300, "unit": "g", "flavour": "none", "type": "Frozen", "cons": "SOLID" }
+    ]
+  },
+  {
+    "name": "Es Kelapa Muda Smoothie",
+    "family": "drink",
+    "servings": 4,
+    "source": "https://hellosehat.com/nutrisi/resep-sehat/resep-es-kelapa-muda/",
+    "ingredients": [
+      { "name": "young coconut water", "amount": 700, "unit": "ml", "flavour": "sweet", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "young coconut flesh", "amount": 300, "unit": "g", "flavour": "sweet", "type": "Produce", "cons": "SOLID" },
+      { "name": "strawberry", "amount": 150, "unit": "g", "flavour": "sweet", "type": "Produce", "cons": "SOLID" },
+      { "name": "yogurt", "amount": 240, "unit": "g", "flavour": "acidity", "type": "Milk, Eggs, Other Dairy", "cons": "LIQUID" },
+      { "name": "ice", "amount": 200, "unit": "g", "flavour": "none", "type": "Frozen", "cons": "SOLID" }
+    ]
+  },
+  {
+    "name": "Es Kelapa Muda Jeruk (Honey)",
+    "family": "drink",
+    "servings": 4,
+    "source": "https://hellosehat.com/nutrisi/resep-sehat/resep-es-kelapa-muda/",
+    "ingredients": [
+      { "name": "young coconut water", "amount": 700, "unit": "ml", "flavour": "sweet", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "young coconut flesh", "amount": 300, "unit": "g", "flavour": "sweet", "type": "Produce", "cons": "SOLID" },
+      { "name": "honey", "amount": 100, "unit": "g", "flavour": "sweet", "type": "Nut butters, Jams, and Honey", "cons": "LIQUID" },
+      { "name": "orange juice", "amount": 300, "unit": "ml", "flavour": "acidity", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "ice", "amount": 200, "unit": "g", "flavour": "none", "type": "Frozen", "cons": "SOLID" }
+    ]
+  },
+  {
+    "name": "Es Kelapa Muda Melon",
+    "family": "drink",
+    "servings": 5,
+    "source": "https://hellosehat.com/nutrisi/resep-sehat/resep-es-kelapa-muda/",
+    "ingredients": [
+      { "name": "young coconut water", "amount": 700, "unit": "ml", "flavour": "sweet", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "young coconut flesh", "amount": 300, "unit": "g", "flavour": "sweet", "type": "Produce", "cons": "SOLID" },
+      { "name": "melon", "amount": 200, "unit": "g", "flavour": "sweet", "type": "Produce", "cons": "SOLID" },
+      { "name": "nata de coco", "amount": 500, "unit": "g", "flavour": "none", "type": "Ethnic Foods", "cons": "SOLID" },
+      { "name": "basil seed", "amount": 8, "unit": "g", "flavour": "none", "type": "Health Foods", "cons": "SOLID" },
+      { "name": "ice", "amount": 200, "unit": "g", "flavour": "none", "type": "Frozen", "cons": "SOLID" }
+    ]
+  },
+  {
+    "name": "Es Kelapa Muda Kombinasi",
+    "family": "drink",
+    "servings": 5,
+    "source": "https://hellosehat.com/nutrisi/resep-sehat/resep-es-kelapa-muda/",
+    "ingredients": [
+      { "name": "young coconut water", "amount": 700, "unit": "ml", "flavour": "sweet", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "young coconut flesh", "amount": 300, "unit": "g", "flavour": "sweet", "type": "Produce", "cons": "SOLID" },
+      { "name": "nata de coco", "amount": 250, "unit": "g", "flavour": "none", "type": "Ethnic Foods", "cons": "SOLID" },
+      { "name": "jackfruit", "amount": 150, "unit": "g", "flavour": "sweet", "type": "Produce", "cons": "SOLID" },
+      { "name": "salt", "amount": 3, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" },
+      { "name": "water", "amount": 200, "unit": "ml", "flavour": "none", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "honey", "amount": 100, "unit": "g", "flavour": "sweet", "type": "Nut butters, Jams, and Honey", "cons": "LIQUID" },
+      { "name": "pandan leaf", "amount": 15, "unit": "g", "flavour": "aromatic", "type": "Spices and Seasonings", "cons": "SOLID" },
+      { "name": "ice", "amount": 200, "unit": "g", "flavour": "none", "type": "Frozen", "cons": "SOLID" }
+    ]
+  },
+  {
+    "name": "Wedang Ronde (Cook Me Indonesian)",
+    "family": "drink",
+    "servings": 5,
+    "source": "https://www.cookmeindonesian.com/wedang-ronde-dessert-glutinous-rice-balls-in-sweet-ginger-soup/",
+    "ingredients": [
+      { "name": "peanut", "amount": 40, "unit": "g", "flavour": "none", "type": "Nuts", "cons": "SOLID" },
+      { "name": "sugar", "amount": 50, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
+      { "name": "glutinous rice flour", "amount": 200, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
+      { "name": "tapioca starch", "amount": 8, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
+      { "name": "water", "amount": 1120, "unit": "ml", "flavour": "none", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "salt", "amount": 1, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" },
+      { "name": "food colouring", "amount": 0.2, "unit": "ml", "flavour": "none", "type": "Baking", "cons": "LIQUID" },
+      { "name": "ginger", "amount": 200, "unit": "g", "flavour": "spice", "type": "Produce", "cons": "SOLID" },
+      { "name": "pandan leaf", "amount": 10, "unit": "g", "flavour": "aromatic", "type": "Spices and Seasonings", "cons": "SOLID" },
+      { "name": "palm sugar", "amount": 100, "unit": "g", "flavour": "sweet", "type": "Ethnic Foods", "cons": "SOLID" },
+      { "name": "sugar palm fruit", "amount": 50, "unit": "g", "flavour": "none", "type": "Ethnic Foods", "cons": "SOLID" }
+    ]
+  },
+  {
+    "name": "Wedang Ronde (Siska's Recipes)",
+    "family": "drink",
+    "servings": 5,
+    "source": "https://siskasrecipes.weebly.com/recipes/wedang-ronde",
+    "ingredients": [
+      { "name": "glutinous rice flour", "amount": 125, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
+      { "name": "tapioca starch", "amount": 16, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
+      { "name": "water", "amount": 1650, "unit": "ml", "flavour": "none", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "salt", "amount": 1, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" },
+      { "name": "food colouring", "amount": 0.2, "unit": "ml", "flavour": "none", "type": "Baking", "cons": "LIQUID" },
+      { "name": "peanut", "amount": 30, "unit": "g", "flavour": "none", "type": "Nuts", "cons": "SOLID" },
+      { "name": "sugar", "amount": 165, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
+      { "name": "palm sugar", "amount": 30, "unit": "g", "flavour": "sweet", "type": "Ethnic Foods", "cons": "SOLID" },
+      { "name": "ginger", "amount": 200, "unit": "g", "flavour": "spice", "type": "Produce", "cons": "SOLID" },
+      { "name": "lemongrass", "amount": 20, "unit": "g", "flavour": "aromatic", "type": "Produce", "cons": "SOLID" },
+      { "name": "kaffir lime leaf", "amount": 2, "unit": "g", "flavour": "aromatic", "type": "Produce", "cons": "SOLID" },
+      { "name": "pandan leaf", "amount": 8, "unit": "g", "flavour": "aromatic", "type": "Spices and Seasonings", "cons": "SOLID" }
+    ]
+  },
+  {
+    "name": "Wedang Ronde (Asian Inspirations)",
+    "family": "drink",
+    "servings": 3,
+    "source": "https://asianinspirations.com.au/recipes/indonesian-glutinous-rice-balls-in-ginger-syrup-wedang-ronde/",
+    "ingredients": [
+      { "name": "water", "amount": 580, "unit": "ml", "flavour": "none", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "ginger", "amount": 50, "unit": "g", "flavour": "spice", "type": "Produce", "cons": "SOLID" },
+      { "name": "lemongrass", "amount": 20, "unit": "g", "flavour": "aromatic", "type": "Produce", "cons": "SOLID" },
+      { "name": "pandan leaf", "amount": 10, "unit": "g", "flavour": "aromatic", "type": "Spices and Seasonings", "cons": "SOLID" },
+      { "name": "sugar", "amount": 100, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
+      { "name": "glutinous rice flour", "amount": 100, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
+      { "name": "peanut", "amount": 50, "unit": "g", "flavour": "none", "type": "Nuts", "cons": "SOLID" },
+      { "name": "food colouring", "amount": 0.1, "unit": "ml", "flavour": "none", "type": "Baking", "cons": "LIQUID" }
+    ]
+  }
+]
+}
