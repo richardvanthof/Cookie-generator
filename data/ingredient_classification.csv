@@ -1,0 +1,341 @@
+ingredient,flavour,type,is_indonesian
+water,none,liquids,False
+maple extract,aromatic,liquids,False
+dutch-processed cocoa powder,bitter,spices,False
+baking soda,none,leaving_agents,False
+flaky sea salt,salt,salts,False
+semi-sweet chocolate chips,sweet,sugars,False
+kaffir lime leaf,aromatic,spices,True
+sea salt [recommended],salt,salts,False
+coconut,creamy,seeds_nuts_dried_fruits,False
+turmeric powder,spice,spices,True
+smooth peanut butter,creamy,fats,False
+cinnamon,aromatic,spices,False
+wheat germ,none,starches,False
+lemons,acidity,produce,False
+soda water,none,liquids,False
+nestlé® toll house® premier morsels,sweet,sugars,False
+granulated sugar,sweet,sugars,False
+quick-cooking oats,none,starches,False
+cocopandan syrup,sweet,sugars,True
+tahini,creamy,fats,False
+craisins,sweet,seeds_nuts_dried_fruits,False
+peppermint extract,aromatic,liquids,False
+bisquick mix,none,starches,False
+pink lemonade kool-aid,acidity,sugars,False
+pastured eggs,none,binders,False
+mung bean starch,none,starches,True
+white rice,none,starches,False
+strawberries,sweet,produce,False
+lemon curd,acidity,sugars,False
+cardamom,aromatic,spices,False
+sugar,sweet,sugars,False
+sea salt,salt,salts,False
+baking cocoa,bitter,spices,False
+nata de coco,sweet,produce,True
+roasted peanuts,none,seeds_nuts_dried_fruits,False
+rolled oats,none,starches,False
+almond flakes on top as decoration,none,seeds_nuts_dried_fruits,False
+lemon zest,aromatic,produce,False
+peanut,none,seeds_nuts_dried_fruits,False
+pandan juice,aromatic,liquids,True
+sago starch,none,starches,True
+almond meal,none,seeds_nuts_dried_fruits,False
+sugar syrup,sweet,sugars,False
+corn syrup,sweet,sugars,False
+applesauce,sweet,produce,False
+chow mein noodles,none,starches,False
+coconut blossom sugar,sweet,sugars,True
+ice,none,liquids,False
+all-natural nut butter,creamy,fats,False
+egg yolk,creamy,binders,False
+macadamia nuts,creamy,seeds_nuts_dried_fruits,False
+walnuts and pecans,none,seeds_nuts_dried_fruits,False
+strap molasses,sweet,sugars,False
+date sugar,sweet,sugars,False
+instant yeast,none,leaving_agents,False
+eggs,none,binders,False
+cane sugar,sweet,sugars,False
+pecans,none,seeds_nuts_dried_fruits,False
+creamy smooth peanut butter,creamy,fats,False
+white bread,none,starches,False
+chocolate,sweet,sugars,False
+you can use store purchased,,,False
+meringue powder,none,binders,False
+molasses,sweet,sugars,False
+lemon,acidity,produce,False
+palm sugar,sweet,sugars,True
+vanilla bean paste,aromatic,spices,False
+baking powder,none,leaving_agents,False
+circular cookie cutters,,,False
+pistachios nuts,none,seeds_nuts_dried_fruits,False
+fresh turmeric,spice,spices,True
+confectioners sugar,sweet,sugars,False
+brown sugar,sweet,sugars,False
+coconut cream,creamy,fats,True
+water chestnut,none,produce,False
+salt,salt,salts,False
+old fashioned oats,none,starches,False
+raspberry jam,sweet,sugars,False
+ground flax seeds,none,seeds_nuts_dried_fruits,False
+walnut oil,none,fats,False
+vanilla flavoring,aromatic,liquids,False
+blended oatmeal,none,starches,False
+sriracha,spice,spices,False
+vegan buttery spread,creamy,fats,False
+coconut butter,creamy,fats,False
+pepper,spice,spices,False
+xocai healthy chocolate nuggets,bitter,sugars,False
+pretzels,salt,starches,False
+amber molasses,sweet,sugars,False
+almond flour,none,seeds_nuts_dried_fruits,False
+sugar palm fruit,sweet,produce,True
+"' ""confectioners'' sugar""'",sweet,sugars,False
+cumin,spice,spices,False
+egg yolks,creamy,binders,False
+pandan essence,aromatic,liquids,True
+anise star,aromatic,spices,False
+coco treasure organics extra virgin coconut oil,none,fats,False
+basil seed,none,seeds_nuts_dried_fruits,True
+tamarind,acidity,produce,True
+baking power,none,leaving_agents,False
+vanilla powder,aromatic,spices,False
+spiced apple butter,sweet,produce,False
+juice of lemon,acidity,liquids,False
+vanilla powder/extract,aromatic,spices,False
+coarse salt,salt,salts,False
+muesli,none,starches,False
+butter,creamy,fats,False
+flax seeds,none,seeds_nuts_dried_fruits,False
+black tea,bitter,liquids,False
+milk,creamy,liquids,False
+margarine,creamy,fats,False
+hazelnuts,none,seeds_nuts_dried_fruits,False
+maple syrup,sweet,sugars,False
+m&m candies,sweet,sugars,False
+powdered sugar,sweet,sugars,False
+chocolate cake mix,sweet,starches,False
+bars bittersweet chocolate,bitter,sugars,False
+natural cocoa powder,bitter,spices,False
+kepok banana,sweet,produce,True
+amaretto liqueur,aromatic,liquids,False
+inverted sugar syrup,sweet,sugars,False
+almond paste,sweet,seeds_nuts_dried_fruits,False
+melon,sweet,produce,False
+butterscotch morsels,sweet,sugars,False
+coconut flakes,sweet,seeds_nuts_dried_fruits,False
+all purpose flour,none,starches,False
+sanding sugar,sweet,sugars,False
+condensed milk,sweet,liquids,False
+cake flour,none,starches,False
+cranberries,acidity,produce,False
+port wine,sweet,liquids,False
+lemon juice,acidity,liquids,False
+carrot,sweet,produce,False
+muffin tins,,,False
+chai concentrate,spice,liquids,False
+special k berries,sweet,starches,False
+apples,sweet,produce,False
+coconut nectar,sweet,sugars,True
+maple flavoring,aromatic,liquids,False
+arrowroot flour,none,starches,False
+flour,none,starches,False
+crisco,none,fats,False
+old fashioned rolled oats,none,starches,False
+coco treasure organics coconut sugar,sweet,sugars,True
+honeydew melon,sweet,produce,False
+orange zest,aromatic,produce,False
+cake fondant,sweet,sugars,False
+big sea salt,salt,salts,False
+vanilla buttercream,sweet,sugars,False
+ground almond,none,seeds_nuts_dried_fruits,False
+amaretto,aromatic,liquids,False
+apple,sweet,produce,False
+crunchy peanut butter,creamy,fats,False
+heavy cream,creamy,liquids,False
+vanilla extract,aromatic,liquids,False
+th pinch of baking soda [less than tsp],none,leaving_agents,False
+ginger root,spice,spices,False
+full cream milk,creamy,liquids,False
+lemon kool-aid,acidity,sugars,False
+egg,none,binders,False
+spectrum non-hydrogenated shortening,none,fats,False
+chocolate syrup,sweet,sugars,False
+candied orange peel,sweet,seeds_nuts_dried_fruits,False
+oats flour,none,starches,False
+ginger powder,spice,spices,False
+oil,none,fats,False
+duncan hines classic decadent cake mix,sweet,starches,False
+walnuts,none,seeds_nuts_dried_fruits,False
+ener-g egg replacer,none,binders,False
+pandan paste,aromatic,spices,True
+xanthan gum,none,binders,False
+sago pearls,none,starches,True
+espresso,bitter,liquids,False
+ginger,spice,spices,False
+slivered almonds,none,seeds_nuts_dried_fruits,False
+figs,sweet,seeds_nuts_dried_fruits,False
+yogurt,creamy,liquids,False
+avocado,creamy,produce,False
+nutmeg,aromatic,spices,True
+soybeans,none,produce,False
+cooking oil,none,fats,False
+vegan sugar,sweet,sugars,False
+star cookie cutter,,,False
+agave nectar,sweet,sugars,False
+cooking oats,none,starches,False
+pink food coloring,none,liquids,False
+icing sugar,sweet,sugars,False
+castor sugar,sweet,sugars,False
+bay leaf,aromatic,spices,False
+pre-made sugar cookies,sweet,starches,False
+cranberry,acidity,produce,False
+vanilla bean,aromatic,spices,False
+vanilla essence,aromatic,liquids,False
+carrots,sweet,produce,False
+cloves,spice,spices,True
+unbleached flour,none,starches,False
+sunspire carob chips,sweet,sugars,False
+cream of tarter,acidity,leaving_agents,False
+star anise,aromatic,spices,False
+fancy” molasses,sweet,sugars,False
+apple sauce,sweet,produce,False
+wheat flour,none,starches,False
+espresso powder,bitter,spices,False
+creamy peanut butter,creamy,fats,False
+grounded roasted peanuts,none,seeds_nuts_dried_fruits,False
+young coconut flesh,creamy,produce,True
+extra icing sugar,sweet,sugars,False
+glutinous rice flour,none,starches,True
+dried blue pea flower,none,spices,True
+semisweet choc,sweet,sugars,False
+rolo chewy caramels,sweet,sugars,False
+vanilla,aromatic,spices,False
+spelt flour,none,starches,False
+raisin,sweet,seeds_nuts_dried_fruits,False
+toffee chips,sweet,sugars,False
+lemon rind,aromatic,produce,False
+poppy seeds,none,seeds_nuts_dried_fruits,False
+cashew nuts,none,seeds_nuts_dried_fruits,False
+temulawak,spice,spices,True
+espresso powder/instant coffee,bitter,spices,False
+mashed potato,none,produce,False
+almond flakes,none,seeds_nuts_dried_fruits,False
+heath candy bars,sweet,sugars,False
+pastry flour,none,starches,False
+vegan chocolate chips and/or pieces,sweet,sugars,False
+soda,none,liquids,False
+kencur,aromatic,spices,True
+cacao nibs,bitter,seeds_nuts_dried_fruits,False
+cashew flour,none,seeds_nuts_dried_fruits,False
+rice flour,none,starches,False
+ground almonds,none,seeds_nuts_dried_fruits,False
+chocolate bar,sweet,sugars,False
+old-fashioned oats,none,starches,False
+firmly brown sugar,sweet,sugars,False
+oats,none,starches,False
+jackfruit,sweet,produce,True
+holiday sprinkles,sweet,sugars,False
+biji delima (water chestnut),none,produce,True
+oats oats,none,starches,False
+candied ginger,spice,sugars,False
+roll of pillsbury chocolate chips cookies,sweet,starches,False
+chocolate chips,sweet,sugars,False
+saran wrap,,,False
+pink dragon fruit,sweet,produce,False
+raisins,sweet,seeds_nuts_dried_fruits,False
+cornstarch,none,starches,False
+galangal,spice,spices,True
+lemongrass,aromatic,produce,True
+grass jelly,none,produce,True
+cream of tartar,acidity,leaving_agents,False
+candy melts,sweet,sugars,False
+spectrum all-vegetable shortening,none,fats,False
+soy milk,creamy,liquids,False
+bittersweet chocolate,bitter,sugars,False
+blackstrap molasses,bitter,sugars,False
+gound almonds,none,seeds_nuts_dried_fruits,False
+grated cheese,salt,fats,False
+brown sugar and cinnamon oatmeal,sweet,starches,False
+banana leaf,none,produce,True
+coffee granules,bitter,spices,False
+honey,sweet,sugars,False
+white peppercorn,spice,spices,False
+"' ""add a hershey''s chocolate kiss on top as done""'",,,False
+young coconut water,sweet,liquids,True
+sweetened condensed milk,sweet,liquids,False
+apricots,sweet,produce,False
+food colouring,none,liquids,False
+evaporated milk,creamy,liquids,False
+fermented cassava (tape),acidity,starches,True
+egg white,none,binders,False
+vanilla sugar,sweet,sugars,False
+ground coffee,bitter,spices,False
+sinom leaf,acidity,produce,True
+peanut butter,creamy,fats,False
+greek yogurt,creamy,liquids,False
+silvered almonds,none,seeds_nuts_dried_fruits,False
+pistachio oil,none,fats,False
+pandan leaf,aromatic,produce,True
+plain flour,none,starches,False
+butter-flavored crisco,none,fats,False
+pistachios,none,seeds_nuts_dried_fruits,False
+grated cassava,none,starches,True
+tropical traditions coconut peanut butter,creamy,fats,False
+ground nutmeg,aromatic,spices,True
+cocoa,bitter,spices,False
+self-raising flour,none,starches,False
+chocolate chunks,sweet,sugars,False
+fresh milk,creamy,liquids,False
+baking raisins,sweet,seeds_nuts_dried_fruits,False
+wine,acidity,liquids,False
+agar-agar,none,binders,True
+tapioca starch,none,starches,True
+semisweet chocolate chips,sweet,sugars,False
+self rising flour,none,starches,False
+almond milk,creamy,liquids,False
+ghirardelli chocolate chips,sweet,sugars,False
+ground allspice,spice,spices,False
+glutinous rice,none,starches,True
+half and half,creamy,liquids,False
+apricot preserves,sweet,sugars,False
+sesame seeds,none,seeds_nuts_dried_fruits,False
+chocolate kisses,sweet,sugars,False
+orange juice,acidity,liquids,False
+mango,sweet,produce,False
+caster sugar,sweet,sugars,False
+strawberry,sweet,produce,False
+hazlenut meal,none,seeds_nuts_dried_fruits,False
+blanched almond flour,none,seeds_nuts_dried_fruits,False
+ground ginger,spice,spices,False
+egg whites,none,binders,False
+shortening,none,fats,False
+coconut water,sweet,liquids,False
+hunkwe flour,none,starches,True
+kosher salt,salt,salts,False
+canola oil,none,fats,False
+turbinado sugar,sweet,sugars,False
+lemon extract,aromatic,liquids,False
+ground cloves,spice,spices,True
+cream cheese,creamy,fats,False
+ground cinnamon,aromatic,spices,False
+ap flour,none,starches,False
+food coloring,none,liquids,False
+bananas,sweet,produce,False
+almonds,none,seeds_nuts_dried_fruits,False
+chocolate chips - chocolate or,sweet,sugars,False
+grated coconut,sweet,seeds_nuts_dried_fruits,True
+honey/maple syrup,sweet,sugars,False
+cacao butter,creamy,fats,False
+coconut milk,creamy,liquids,True
+semi chocolate chips,sweet,sugars,False
+vegetable oil,none,fats,False
+chocolate covered raisins,sweet,sugars,False
+bittersweet chocolate chips,bitter,sugars,False
+chocolate sprinkles,sweet,sugars,False
+almond extract,aromatic,liquids,False
+coconut oil,none,fats,False
+cocoa powder,bitter,spices,False
+cherries,sweet,produce,False
+betty crocker chocolate fudge cake mix,sweet,starches,False
+reese cups,sweet,sugars,False
