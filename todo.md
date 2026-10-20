@@ -9,10 +9,10 @@
 - selection
 -- fine
 
-- crossover
+- crossover (alberto)
 -- make it take half of Recipe 1 and half of Recipe 2 and merge
 
-- mutation
+- mutation (alberto)
 -- add more options to mutate ingredients in general
 ---- replace ingredient
 ---- change amount
