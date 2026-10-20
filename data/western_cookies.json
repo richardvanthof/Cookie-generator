@@ -1337,69 +1337,6 @@
         ]
     },
     {
-        "name": "Fidget Spinner Cookies",
-        "family": "cookie",
-        "servings": 20,
-        "ingredients": [
-            {
-                "name": "almond extract",
-                "amount": 1.0,
-                "unit": "tsp",
-                "type": "Baking",
-                "cons": "LIQUID"
-            },
-            {
-                "name": "baking powder",
-                "amount": 177.441,
-                "unit": "g",
-                "type": "Baking",
-                "cons": "SOLID"
-            },
-            {
-                "name": "butter",
-                "amount": 227.0,
-                "unit": "g",
-                "type": "Milk, Eggs, Other Dairy",
-                "cons": "SOLID"
-            },
-            {
-                "name": "salt",
-                "amount": 0.75,
-                "unit": "tsps",
-                "type": "Spices and Seasonings",
-                "cons": "SOLID"
-            },
-            {
-                "name": "self rising flour",
-                "amount": 562.5,
-                "unit": "g",
-                "type": "Baking",
-                "cons": "SOLID"
-            },
-            {
-                "name": "sugar",
-                "amount": 300.0,
-                "unit": "g",
-                "type": "Baking",
-                "cons": "SOLID"
-            },
-            {
-                "name": "vanilla",
-                "amount": 1.0,
-                "unit": "tsp",
-                "type": "Baking",
-                "cons": "SOLID"
-            },
-            {
-                "name": "saran wrap",
-                "amount": 20.0,
-                "unit": "servings",
-                "type": "Bakery/Bread",
-                "cons": "SOLID"
-            }
-        ]
-    },
-    {
         "name": "Lemon Meringue Cookies",
         "family": "cookie",
         "servings": 1,
@@ -4005,76 +3942,6 @@
                 "name": "chocolate chips",
                 "amount": 90.0,
                 "unit": "ml",
-                "type": "Baking",
-                "cons": "SOLID"
-            }
-        ]
-    },
-    {
-        "name": "Captain America Shield Cookies",
-        "family": "cookie",
-        "servings": 12,
-        "ingredients": [
-            {
-                "name": "candy melts",
-                "amount": 452.0,
-                "unit": "ml",
-                "type": "Baking",
-                "cons": "SOLID"
-            },
-            {
-                "name": "coconut oil",
-                "amount": 2.0,
-                "unit": "tsps",
-                "type": "Baking",
-                "cons": "LIQUID"
-            },
-            {
-                "name": "circular cookie cutters",
-                "amount": 3.0,
-                "unit": "",
-                "type": "Sweet Snacks",
-                "cons": "SOLID"
-            },
-            {
-                "name": "star cookie cutter",
-                "amount": 12.0,
-                "unit": "servings",
-                "type": "Sweet Snacks",
-                "cons": "SOLID"
-            },
-            {
-                "name": "cornstarch",
-                "amount": 12.0,
-                "unit": "servings",
-                "type": "Baking",
-                "cons": "SOLID"
-            },
-            {
-                "name": "cake fondant",
-                "amount": 85.049,
-                "unit": "g",
-                "type": "Bakery/Bread",
-                "cons": "SOLID"
-            },
-            {
-                "name": "cake fondant",
-                "amount": 170.097,
-                "unit": "g",
-                "type": "Bakery/Bread",
-                "cons": "SOLID"
-            },
-            {
-                "name": "pre-made sugar cookies",
-                "amount": 12.0,
-                "unit": "large",
-                "type": "Baking",
-                "cons": "SOLID"
-            },
-            {
-                "name": "vanilla buttercream",
-                "amount": 12.0,
-                "unit": "servings",
                 "type": "Baking",
                 "cons": "SOLID"
             }
@@ -6995,34 +6862,6 @@
                 "amount": 49.5,
                 "unit": "g",
                 "type": "Nuts",
-                "cons": "SOLID"
-            }
-        ]
-    },
-    {
-        "name": "Reeses Peanut Butter Chocolate Chip Cookies",
-        "family": "cookie",
-        "servings": 4,
-        "ingredients": [
-            {
-                "name": "roll of pillsbury chocolate chips cookies",
-                "amount": 1.0,
-                "unit": "large",
-                "type": "Baking",
-                "cons": "SOLID"
-            },
-            {
-                "name": "muffin tins",
-                "amount": 4.0,
-                "unit": "servings",
-                "type": "Bakery/Bread",
-                "cons": "SOLID"
-            },
-            {
-                "name": "reese cups",
-                "amount": 1.0,
-                "unit": "bag",
-                "type": "Sweet Snacks",
                 "cons": "SOLID"
             }
         ]
