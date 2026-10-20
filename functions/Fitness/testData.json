@@ -1,0 +1,374 @@
+[
+        {
+        "name": "Jamu Kunyit Asam (Cook Me Indonesian)",
+        "family": "kunyit_asam",
+        "servings": 8,
+        "source": "https://www.cookmeindonesian.com",
+        "ingredients": [
+            {
+                "name": "fresh turmeric",
+                "amount": 300,
+                "unit": "g",
+                "flavour": "spice",
+                "type": "spices",
+                "cons": "SOLID",
+                "is_indonesian": true
+            },
+            {
+                "name": "tamarind",
+                "amount": 50,
+                "unit": "g",
+                "flavour": "acidity",
+                "type": "produce",
+                "cons": "SOLID",
+                "is_indonesian": true
+            },
+            {
+                "name": "palm sugar",
+                "amount": 150,
+                "unit": "g",
+                "flavour": "sweet",
+                "type": "sugars",
+                "cons": "SOLID",
+                "is_indonesian": true
+            },
+            {
+                "name": "water",
+                "amount": 2000,
+                "unit": "ml",
+                "flavour": "none",
+                "type": "liquids",
+                "cons": "LIQUID",
+                "is_indonesian": false
+            }
+        ]
+    },
+    {
+        "name": "Jamu Kunyit (Cookpad)",
+        "family": "kunyit_asam",
+        "servings": 1,
+        "source": "https://cookpad.com/id/resep/26707202",
+        "ingredients": [
+            {
+                "name": "turmeric powder",
+                "amount": 3,
+                "unit": "g",
+                "flavour": "spice",
+                "type": "spices",
+                "cons": "SOLID",
+                "is_indonesian": true
+            },
+            {
+                "name": "tamarind",
+                "amount": 15,
+                "unit": "g",
+                "flavour": "acidity",
+                "type": "produce",
+                "cons": "SOLID",
+                "is_indonesian": true
+            },
+            {
+                "name": "palm sugar",
+                "amount": 15,
+                "unit": "g",
+                "flavour": "sweet",
+                "type": "sugars",
+                "cons": "SOLID",
+                "is_indonesian": true
+            },
+            {
+                "name": "water",
+                "amount": 200,
+                "unit": "ml",
+                "flavour": "none",
+                "type": "liquids",
+                "cons": "LIQUID",
+                "is_indonesian": false
+            }
+        ]
+    },
+    {
+        "name": "Beras Kencur (Cook Me Indonesian)",
+        "family": "beras_kencur",
+        "servings": 4,
+        "source": "https://www.cookmeindonesian.com",
+        "ingredients": [
+            {
+                "name": "white rice",
+                "amount": 50,
+                "unit": "g",
+                "flavour": "none",
+                "type": "starches",
+                "cons": "SOLID",
+                "is_indonesian": false
+            },
+            {
+                "name": "kencur",
+                "amount": 40,
+                "unit": "g",
+                "flavour": "aromatic",
+                "type": "spices",
+                "cons": "SOLID",
+                "is_indonesian": true
+            },
+            {
+                "name": "ginger",
+                "amount": 20,
+                "unit": "g",
+                "flavour": "spice",
+                "type": "spices",
+                "cons": "SOLID",
+                "is_indonesian": false
+            },
+            {
+                "name": "palm sugar",
+                "amount": 60,
+                "unit": "g",
+                "flavour": "sweet",
+                "type": "sugars",
+                "cons": "SOLID",
+                "is_indonesian": true
+            },
+            {
+                "name": "sugar",
+                "amount": 20,
+                "unit": "g",
+                "flavour": "sweet",
+                "type": "sugars",
+                "cons": "SOLID",
+                "is_indonesian": false
+            },
+            {
+                "name": "tamarind",
+                "amount": 10,
+                "unit": "g",
+                "flavour": "acidity",
+                "type": "produce",
+                "cons": "SOLID",
+                "is_indonesian": true
+            },
+            {
+                "name": "salt",
+                "amount": 1,
+                "unit": "g",
+                "flavour": "salt",
+                "type": "salts",
+                "cons": "SOLID",
+                "is_indonesian": false
+            },
+            {
+                "name": "water",
+                "amount": 800,
+                "unit": "ml",
+                "flavour": "none",
+                "type": "liquids",
+                "cons": "LIQUID",
+                "is_indonesian": false
+            }
+        ]
+    },
+    {
+        "name": "Beras Kencur (Segari)",
+        "family": "beras_kencur",
+        "servings": 4,
+        "source": "https://segari.id/jamu-beras-kencur",
+        "ingredients": [
+            {
+                "name": "white rice",
+                "amount": 50,
+                "unit": "g",
+                "flavour": "none",
+                "type": "starches",
+                "cons": "SOLID",
+                "is_indonesian": false
+            },
+            {
+                "name": "kencur",
+                "amount": 40,
+                "unit": "g",
+                "flavour": "aromatic",
+                "type": "spices",
+                "cons": "SOLID",
+                "is_indonesian": true
+            },
+            {
+                "name": "palm sugar",
+                "amount": 60,
+                "unit": "g",
+                "flavour": "sweet",
+                "type": "sugars",
+                "cons": "SOLID",
+                "is_indonesian": true
+            },
+            {
+                "name": "sugar",
+                "amount": 20,
+                "unit": "g",
+                "flavour": "sweet",
+                "type": "sugars",
+                "cons": "SOLID",
+                "is_indonesian": false
+            },
+            {
+                "name": "salt",
+                "amount": 1,
+                "unit": "g",
+                "flavour": "salt",
+                "type": "salts",
+                "cons": "SOLID",
+                "is_indonesian": false
+            },
+            {
+                "name": "water",
+                "amount": 800,
+                "unit": "ml",
+                "flavour": "none",
+                "type": "liquids",
+                "cons": "LIQUID",
+                "is_indonesian": false
+            }
+        ]
+    },
+    {
+        "name": "Wedang Temulawak (Indonesia Secret Kitchen)",
+        "family": "temulawak",
+        "servings": 5,
+        "source": "https://indonesiasecretkitchen.blogspot.com",
+        "ingredients": [
+            {
+                "name": "temulawak",
+                "amount": 100,
+                "unit": "g",
+                "flavour": "spice",
+                "type": "spices",
+                "cons": "SOLID",
+                "is_indonesian": true
+            },
+            {
+                "name": "tamarind",
+                "amount": 20,
+                "unit": "g",
+                "flavour": "acidity",
+                "type": "produce",
+                "cons": "SOLID",
+                "is_indonesian": true
+            },
+            {
+                "name": "galangal",
+                "amount": 20,
+                "unit": "g",
+                "flavour": "spice",
+                "type": "spices",
+                "cons": "SOLID",
+                "is_indonesian": true
+            },
+            {
+                "name": "cumin",
+                "amount": 2,
+                "unit": "g",
+                "flavour": "spice",
+                "type": "spices",
+                "cons": "SOLID",
+                "is_indonesian": false
+            },
+            {
+                "name": "palm sugar",
+                "amount": 80,
+                "unit": "g",
+                "flavour": "sweet",
+                "type": "sugars",
+                "cons": "SOLID",
+                "is_indonesian": true
+            },
+            {
+                "name": "pandan leaf",
+                "amount": 10,
+                "unit": "g",
+                "flavour": "aromatic",
+                "type": "produce",
+                "cons": "SOLID",
+                "is_indonesian": true
+            },
+            {
+                "name": "water",
+                "amount": 1200,
+                "unit": "ml",
+                "flavour": "none",
+                "type": "liquids",
+                "cons": "LIQUID",
+                "is_indonesian": false
+            }
+        ]
+    },
+    {
+        "name": "Sinom (Cookpad)",
+        "family": "sinom",
+        "servings": 5,
+        "source": "https://cookpad.com/id/resep/26486284",
+        "ingredients": [
+            {
+                "name": "fresh turmeric",
+                "amount": 50,
+                "unit": "g",
+                "flavour": "spice",
+                "type": "spices",
+                "cons": "SOLID",
+                "is_indonesian": true
+            },
+            {
+                "name": "sinom leaf",
+                "amount": 30,
+                "unit": "g",
+                "flavour": "acidity",
+                "type": "produce",
+                "cons": "SOLID",
+                "is_indonesian": true
+            },
+            {
+                "name": "tamarind",
+                "amount": 30,
+                "unit": "g",
+                "flavour": "acidity",
+                "type": "produce",
+                "cons": "SOLID",
+                "is_indonesian": true
+            },
+            {
+                "name": "palm sugar",
+                "amount": 100,
+                "unit": "g",
+                "flavour": "sweet",
+                "type": "sugars",
+                "cons": "SOLID",
+                "is_indonesian": true
+            },
+            {
+                "name": "sugar",
+                "amount": 30,
+                "unit": "g",
+                "flavour": "sweet",
+                "type": "sugars",
+                "cons": "SOLID",
+                "is_indonesian": false
+            },
+            {
+                "name": "salt",
+                "amount": 2,
+                "unit": "g",
+                "flavour": "salt",
+                "type": "salts",
+                "cons": "SOLID",
+                "is_indonesian": false
+            },
+            {
+                "name": "water",
+                "amount": 1000,
+                "unit": "ml",
+                "flavour": "none",
+                "type": "liquids",
+                "cons": "LIQUID",
+                "is_indonesian": false
+            }
+        ]
+    }
+]

@@ -45,7 +45,8 @@
                 "is_indonesian": false,
                 "source": "Jamu Kunyit Asam (Cook Me Indonesian)"
             }
-        ]
+        ],
+        "fitness": 1
     },
     {
         "name": "Jamu Kunyit (Cookpad)",
@@ -181,7 +182,8 @@
                 "is_indonesian": false,
                 "source": "Beras Kencur (Cook Me Indonesian)"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Beras Kencur (Segari)",
@@ -249,7 +251,8 @@
                 "is_indonesian": false,
                 "source": "Beras Kencur (Segari)"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Wedang Temulawak (Indonesia Secret Kitchen)",
@@ -406,7 +409,8 @@
                 "is_indonesian": false,
                 "source": "Sinom (Cookpad)"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Es Cendol (Segari)",
@@ -604,7 +608,7 @@
             },
             {
                 "name": "water",
-                "amount": 400,
+                "amount": 360.0,
                 "unit": "ml",
                 "flavour": "none",
                 "type": "liquids",
@@ -652,7 +656,8 @@
                 "is_indonesian": true,
                 "source": "Es Sop Buah"
             }
-        ]
+        ],
+        "fitness": 1
     },
     {
         "name": "Sekoteng (Femina)",
@@ -809,7 +814,8 @@
                 "is_indonesian": false,
                 "source": "Wedang Jahe (Segari)"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Wedang Jahe Susu (Detik)",
@@ -887,7 +893,8 @@
                 "is_indonesian": false,
                 "source": "Wedang Jahe Susu (Detik)"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Bandrek (Cook Me Indonesian)",
@@ -975,7 +982,8 @@
                 "is_indonesian": false,
                 "source": "Bandrek (Cook Me Indonesian)"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Wedang Uwuh (OpenDrinks)",
@@ -1083,7 +1091,8 @@
                 "is_indonesian": false,
                 "source": "Wedang Uwuh (OpenDrinks)"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Bajigur (Amanprana)",
@@ -1181,7 +1190,8 @@
                 "is_indonesian": false,
                 "source": "Bajigur (Amanprana)"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Kopi Bajigur (Nespresso)",
@@ -1466,7 +1476,8 @@
                 "is_indonesian": false,
                 "source": "Coconut Coffee with Ginger (Art and Kitchen)"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Teh Tarik (Frisian Flag)",
@@ -1514,7 +1525,8 @@
                 "is_indonesian": false,
                 "source": "Teh Tarik (Frisian Flag)"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Teh Tarik (video recipe)",
@@ -1572,7 +1584,8 @@
                 "is_indonesian": false,
                 "source": "Teh Tarik (video recipe)"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Es Teh Manis (Mama Miyuki)",
@@ -1620,7 +1633,8 @@
                 "is_indonesian": false,
                 "source": "Es Teh Manis (Mama Miyuki)"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Kopi Susu Gula Aren (Otten Coffee)",
@@ -1726,7 +1740,8 @@
                 "is_indonesian": false,
                 "source": "Kopi Tubruk (Otten Coffee)"
             }
-        ]
+        ],
+        "fitness": 1
     },
     {
         "name": "Es Soda Gembira (Daily Cooking Quest)",
@@ -1794,7 +1809,7 @@
             },
             {
                 "name": "water",
-                "amount": 1200,
+                "amount": 972.0,
                 "unit": "ml",
                 "flavour": "none",
                 "type": "liquids",
@@ -1822,7 +1837,8 @@
                 "is_indonesian": true,
                 "source": "Es Susu Kedelai (Daily Cooking Quest)"
             }
-        ]
+        ],
+        "fitness": 1
     },
     {
         "name": "Kue Bika Ambon Panggang",
@@ -1922,7 +1938,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 12500.0,
+                "amount": 1.52587890625e+26,
                 "unit": "g",
                 "flavour": "none",
                 "type": "binders",
@@ -1950,7 +1966,8 @@
                 "is_indonesian": false,
                 "source": "Kue Bika Ambon Panggang"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Kue Bingka Ubi (with egg)",
@@ -2000,7 +2017,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 2500.0,
+                "amount": 3.0517578125e+25,
                 "unit": "g",
                 "flavour": "none",
                 "type": "binders",
@@ -2116,7 +2133,8 @@
                 "is_indonesian": true,
                 "source": "Kue Bingka Ubi (eggless)"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Kue Lumpur",
@@ -2156,7 +2174,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 7500.0,
+                "amount": 9.155273437500001e+25,
                 "unit": "g",
                 "flavour": "none",
                 "type": "binders",
@@ -2224,7 +2242,8 @@
                 "is_indonesian": true,
                 "source": "Kue Lumpur"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Dadar Gulung",
@@ -2264,7 +2283,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 2500.0,
+                "amount": 3.0517578125e+25,
                 "unit": "g",
                 "flavour": "none",
                 "type": "binders",
@@ -2392,7 +2411,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 2500.0,
+                "amount": 3.0517578125e+25,
                 "unit": "g",
                 "flavour": "none",
                 "type": "binders",
@@ -2460,7 +2479,8 @@
                 "is_indonesian": true,
                 "source": "Kue Serabi Kinca"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Kue Martabak (sweet)",
@@ -2510,7 +2530,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 5000.0,
+                "amount": 6.103515625e+25,
                 "unit": "g",
                 "flavour": "none",
                 "type": "binders",
@@ -2578,7 +2598,8 @@
                 "is_indonesian": false,
                 "source": "Kue Martabak (sweet)"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Kue Cucur Jawa",
@@ -2833,7 +2854,8 @@
                 "is_indonesian": false,
                 "source": "Kue Lapis"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Kue Lapis Singkong Agar-Agar (Kukus)",
@@ -2911,7 +2933,8 @@
                 "is_indonesian": false,
                 "source": "Kue Lapis Singkong Agar-Agar (Kukus)"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Kue Kacamata (Mata Roda)",
@@ -3009,7 +3032,8 @@
                 "is_indonesian": true,
                 "source": "Kue Kacamata (Mata Roda)"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Singkong Santan Agar-Agar (Kukus)",
@@ -3077,7 +3101,8 @@
                 "is_indonesian": true,
                 "source": "Singkong Santan Agar-Agar (Kukus)"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Kue Cantik Manis",
@@ -3410,7 +3435,8 @@
                 "is_indonesian": false,
                 "source": "Onde-onde"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Dodol",
@@ -3488,7 +3514,8 @@
                 "is_indonesian": false,
                 "source": "Dodol"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Wajik Ketan Gula Merah",
@@ -3556,7 +3583,8 @@
                 "is_indonesian": false,
                 "source": "Wajik Ketan Gula Merah"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Es Kelapa Muda (Indofood)",
@@ -3614,7 +3642,8 @@
                 "is_indonesian": true,
                 "source": "Es Kelapa Muda (Indofood)"
             }
-        ]
+        ],
+        "fitness": 1
     },
     {
         "name": "Es Alpukat",
@@ -3957,7 +3986,8 @@
                 "is_indonesian": true,
                 "source": "Es Delima"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Es Kelapa Jeruk (Cookpad)",
@@ -4143,7 +4173,7 @@
             },
             {
                 "name": "ice",
-                "amount": 200,
+                "amount": 220.0,
                 "unit": "g",
                 "flavour": "none",
                 "type": "liquids",
@@ -4151,7 +4181,8 @@
                 "is_indonesian": false,
                 "source": "Es Kelapa Muda Jeruk (Honey)"
             }
-        ]
+        ],
+        "fitness": 1
     },
     {
         "name": "Es Kelapa Muda Melon",
@@ -4318,7 +4349,8 @@
                 "is_indonesian": false,
                 "source": "Es Kelapa Muda Kombinasi"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Wedang Ronde (Cook Me Indonesian)",
@@ -4652,7 +4684,8 @@
                 "is_indonesian": false,
                 "source": "Wedang Ronde (Asian Inspirations)"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Sugar Cookies",
@@ -4711,7 +4744,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 110.0,
+                "amount": 1.3427734375e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -4739,7 +4772,8 @@
                 "is_indonesian": false,
                 "source": "Sugar Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Muesli Cookies",
@@ -4868,7 +4902,7 @@
             },
             {
                 "name": "egg",
-                "amount": 55.0,
+                "amount": 6.7138671875e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -4974,7 +5008,8 @@
                 "is_indonesian": false,
                 "source": "Tahini Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Peanut Cookies",
@@ -5003,7 +5038,7 @@
             },
             {
                 "name": "egg yolk",
-                "amount": 50.0,
+                "amount": 6.103515625e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -5051,7 +5086,8 @@
                 "is_indonesian": false,
                 "source": "Peanut Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Coffee Cookies",
@@ -5178,7 +5214,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 100.0,
+                "amount": 1.220703125e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -5226,7 +5262,8 @@
                 "is_indonesian": false,
                 "source": "Cinnamon Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Monogram Cookies",
@@ -5245,7 +5282,7 @@
             },
             {
                 "name": "egg",
-                "amount": 55.0,
+                "amount": 6.7138671875e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -5323,7 +5360,8 @@
                 "is_indonesian": false,
                 "source": "Monogram Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Creamsicle Cookies",
@@ -5372,7 +5410,7 @@
             },
             {
                 "name": "egg",
-                "amount": 55.0,
+                "amount": 6.7138671875e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -5430,7 +5468,8 @@
                 "is_indonesian": false,
                 "source": "Creamsicle Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "No Bake Cookies",
@@ -5517,7 +5556,8 @@
                 "is_indonesian": false,
                 "source": "No Bake Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Drop Sugar Cookies",
@@ -5536,7 +5576,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 100.0,
+                "amount": 1.220703125e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -5594,7 +5634,8 @@
                 "is_indonesian": false,
                 "source": "Drop Sugar Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Lemon Curd Cookies",
@@ -5623,7 +5664,7 @@
             },
             {
                 "name": "egg yolk",
-                "amount": 50.0,
+                "amount": 6.103515625e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -5671,7 +5712,8 @@
                 "is_indonesian": false,
                 "source": "Lemon Curd Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Almond Tea Cookies",
@@ -5797,7 +5839,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 100.0,
+                "amount": 1.220703125e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -5915,7 +5957,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 100.0,
+                "amount": 1.220703125e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -6022,7 +6064,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 100.0,
+                "amount": 1.220703125e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -6120,7 +6162,8 @@
                 "is_indonesian": false,
                 "source": "Iced Oatmeal Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Cream Cheese Cookies",
@@ -6207,7 +6250,8 @@
                 "is_indonesian": false,
                 "source": "Cream Cheese Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Lemon Powder Cookies",
@@ -6246,7 +6290,7 @@
             },
             {
                 "name": "egg",
-                "amount": 55.0,
+                "amount": 6.7138671875e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -6314,7 +6358,8 @@
                 "is_indonesian": false,
                 "source": "Lemon Powder Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Danish butter cookies",
@@ -6383,7 +6428,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 150.0,
+                "amount": 1.8310546875e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -6509,7 +6554,8 @@
                 "is_indonesian": false,
                 "source": "Almond Butter Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Fidget Spinner Cookies",
@@ -6642,7 +6688,8 @@
                 "is_indonesian": false,
                 "source": "Lemon Meringue Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Lemon Snowball Cookies",
@@ -6671,7 +6718,7 @@
             },
             {
                 "name": "egg",
-                "amount": 50.0,
+                "amount": 6.103515625e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -6759,7 +6806,8 @@
                 "is_indonesian": false,
                 "source": "Lemon Snowball Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Almond Sandwich Cookies",
@@ -6816,7 +6864,8 @@
                 "is_indonesian": false,
                 "source": "Almond Sandwich Cookies"
             }
-        ]
+        ],
+        "fitness": 1
     },
     {
         "name": "Amaretto Almond Cookies",
@@ -6845,7 +6894,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 110.0,
+                "amount": 1.3427734375e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -6903,7 +6952,8 @@
                 "is_indonesian": false,
                 "source": "Amaretto Almond Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Coconut Oatmeal Cookies",
@@ -6942,7 +6992,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 100.0,
+                "amount": 1.220703125e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -7070,7 +7120,8 @@
                 "is_indonesian": false,
                 "source": "Coconut Oatmeal Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Molasses Ginger Cookies",
@@ -7109,7 +7160,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 150.0,
+                "amount": 1.8310546875e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -7177,7 +7228,8 @@
                 "is_indonesian": false,
                 "source": "Molasses Ginger Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Almond Snowball Cookies",
@@ -7352,7 +7404,8 @@
                 "is_indonesian": false,
                 "source": "Oatmeal Coconut Cookies"
             }
-        ]
+        ],
+        "fitness": 1
     },
     {
         "name": "Chocolate Fudge Cookies",
@@ -7391,7 +7444,7 @@
             },
             {
                 "name": "egg",
-                "amount": 50.0,
+                "amount": 6.103515625e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -7449,7 +7502,8 @@
                 "is_indonesian": false,
                 "source": "Chocolate Fudge Cookies"
             }
-        ]
+        ],
+        "fitness": 1
     },
     {
         "name": "Molasses Kringle Cookies",
@@ -7498,7 +7552,7 @@
             },
             {
                 "name": "egg",
-                "amount": 50.0,
+                "amount": 6.103515625e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -7596,7 +7650,8 @@
                 "is_indonesian": false,
                 "source": "Molasses Kringle Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Shortbread Lemon Cookies",
@@ -7615,7 +7670,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 100.0,
+                "amount": 1.220703125e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -7693,7 +7748,8 @@
                 "is_indonesian": false,
                 "source": "Shortbread Lemon Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Healthy Hazelnut Cookies",
@@ -7780,7 +7836,8 @@
                 "is_indonesian": false,
                 "source": "Healthy Hazelnut Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Almond Cranberry Cookies",
@@ -7857,7 +7914,8 @@
                 "is_indonesian": false,
                 "source": "Almond Cranberry Cookies"
             }
-        ]
+        ],
+        "fitness": 1
     },
     {
         "name": "Lemon Thumbprint Cookies",
@@ -7876,7 +7934,7 @@
             },
             {
                 "name": "egg yolks",
-                "amount": 200.0,
+                "amount": 2.44140625e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -7944,7 +8002,8 @@
                 "is_indonesian": false,
                 "source": "Lemon Thumbprint Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Blackberry Walnut Cookies",
@@ -8021,7 +8080,8 @@
                 "is_indonesian": false,
                 "source": "Blackberry Walnut Cookies"
             }
-        ]
+        ],
+        "fitness": 1
     },
     {
         "name": "Chocolate Crinkle Cookies",
@@ -8058,7 +8118,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 150.0,
+                "amount": 1.8310546875e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -8146,7 +8206,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 110.0,
+                "amount": 1.3427734375e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -8367,7 +8427,8 @@
                 "is_indonesian": false,
                 "source": "Avocado Creamcheese Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Chocolate Explosion Cookies",
@@ -8474,7 +8535,8 @@
                 "is_indonesian": false,
                 "source": "Chocolate Explosion Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Chocolate Peppermint Cookies",
@@ -8503,7 +8565,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 200.0,
+                "amount": 2.44140625e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -8611,7 +8673,8 @@
                 "is_indonesian": false,
                 "source": "Chocolate Peppermint Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Peanutbutter Sandwich Cookies",
@@ -8648,7 +8711,7 @@
             },
             {
                 "name": "egg",
-                "amount": 55.0,
+                "amount": 6.7138671875e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -8746,7 +8809,8 @@
                 "is_indonesian": false,
                 "source": "Peanutbutter Sandwich Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Xocai No Bake Cookies",
@@ -8853,7 +8917,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 100.0,
+                "amount": 1.220703125e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -8960,7 +9024,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 100.0,
+                "amount": 1.220703125e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -9108,7 +9172,7 @@
             },
             {
                 "name": "egg",
-                "amount": 50.0,
+                "amount": 6.103515625e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -9196,7 +9260,8 @@
                 "is_indonesian": false,
                 "source": "Carrot Cake Muffin Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Maple-Glazed Apple Cookies",
@@ -9255,7 +9320,7 @@
             },
             {
                 "name": "egg",
-                "amount": 50.0,
+                "amount": 6.103515625e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -9373,7 +9438,7 @@
             },
             {
                 "name": "egg",
-                "amount": 50.0,
+                "amount": 6.103515625e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -9431,7 +9496,8 @@
                 "is_indonesian": false,
                 "source": "Best Peanut Butter Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Easy Homemade Oreo Cookies",
@@ -9450,7 +9516,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 200.0,
+                "amount": 2.44140625e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -9557,7 +9623,7 @@
             },
             {
                 "name": "egg",
-                "amount": 50.0,
+                "amount": 6.103515625e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -9625,7 +9691,8 @@
                 "is_indonesian": false,
                 "source": "Best Chocolate Chip Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Fat Free Gingerbread Cookies",
@@ -9832,7 +9899,8 @@
                 "is_indonesian": false,
                 "source": "Fat Free Gingerbread Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Peanut Butter Kisses Cookies",
@@ -9939,7 +10007,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 110.0,
+                "amount": 1.3427734375e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -9997,7 +10065,8 @@
                 "is_indonesian": false,
                 "source": "Chewy Chocolate Chip Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Pink Lemonade Crinkle Cookies",
@@ -10046,7 +10115,7 @@
             },
             {
                 "name": "egg",
-                "amount": 50.0,
+                "amount": 6.103515625e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -10104,7 +10173,8 @@
                 "is_indonesian": false,
                 "source": "Pink Lemonade Crinkle Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "White Chocolate Mocha Cookies",
@@ -10143,7 +10213,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 150.0,
+                "amount": 1.8310546875e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -10221,7 +10291,8 @@
                 "is_indonesian": false,
                 "source": "White Chocolate Mocha Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Captain America Shield Cookies",
@@ -10316,7 +10387,8 @@
                 "is_indonesian": false,
                 "source": "Captain America Shield Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Oatmeal Chocolate Chip Cookies",
@@ -10335,7 +10407,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 110.0,
+                "amount": 1.3427734375e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -10483,7 +10555,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 100.0,
+                "amount": 1.220703125e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -10611,7 +10683,7 @@
             },
             {
                 "name": "egg",
-                "amount": 50.0,
+                "amount": 6.103515625e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -10659,7 +10731,8 @@
                 "is_indonesian": false,
                 "source": "White Chocolate Walnut Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Cacao-Pecan Shortbread Cookies",
@@ -10696,7 +10769,7 @@
             },
             {
                 "name": "egg",
-                "amount": 55.0,
+                "amount": 6.7138671875e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -10774,7 +10847,8 @@
                 "is_indonesian": false,
                 "source": "Cacao-Pecan Shortbread Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Peanut Butter Sriracha Cookies",
@@ -10833,7 +10907,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 100.0,
+                "amount": 1.220703125e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -10996,7 +11070,8 @@
                 "is_indonesian": false,
                 "source": "Apricot Chickpea Flour Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Salted Chocolate Chunk Cookies",
@@ -11045,7 +11120,7 @@
             },
             {
                 "name": "egg yolks",
-                "amount": 110.0,
+                "amount": 1.3427734375e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -11055,7 +11130,7 @@
             },
             {
                 "name": "egg",
-                "amount": 55.0,
+                "amount": 6.7138671875e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -11183,7 +11258,7 @@
             },
             {
                 "name": "egg",
-                "amount": 55.0,
+                "amount": 6.7138671875e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -11231,7 +11306,8 @@
                 "is_indonesian": false,
                 "source": "Double Chocolate Cherry Cookies"
             }
-        ]
+        ],
+        "fitness": 1
     },
     {
         "name": "Ultimate Chocolate Chunk Cookies",
@@ -11300,7 +11376,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 110.0,
+                "amount": 1.3427734375e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -11397,7 +11473,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 110.0,
+                "amount": 1.3427734375e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -11415,7 +11491,8 @@
                 "is_indonesian": false,
                 "source": "Flourless Apple Macadamia Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Authentic Mexican Wedding Cookies",
@@ -11482,7 +11559,8 @@
                 "is_indonesian": false,
                 "source": "Authentic Mexican Wedding Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Dried Cranberry Chocolate Cookies",
@@ -11521,7 +11599,7 @@
             },
             {
                 "name": "egg",
-                "amount": 55.0,
+                "amount": 6.7138671875e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -11531,7 +11609,7 @@
             },
             {
                 "name": "egg yolk",
-                "amount": 55.0,
+                "amount": 6.7138671875e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -11629,7 +11707,8 @@
                 "is_indonesian": false,
                 "source": "Dried Cranberry Chocolate Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Double Chocolate Pistachio Cookies",
@@ -11658,7 +11737,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 100.0,
+                "amount": 1.220703125e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -11806,7 +11885,7 @@
             },
             {
                 "name": "egg",
-                "amount": 50.0,
+                "amount": 6.103515625e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -11894,7 +11973,8 @@
                 "is_indonesian": false,
                 "source": "Chocolate-Peppermint Thumbprint Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Vanilla Honey Cut Out Cookies",
@@ -12000,7 +12080,7 @@
             },
             {
                 "name": "egg",
-                "amount": 50.0,
+                "amount": 6.103515625e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -12058,7 +12138,8 @@
                 "is_indonesian": false,
                 "source": "New Years Eve Countdown Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Flour-Less Peanut Butter Cookies",
@@ -12087,7 +12168,7 @@
             },
             {
                 "name": "egg",
-                "amount": 55.0,
+                "amount": 6.7138671875e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -12115,7 +12196,8 @@
                 "is_indonesian": false,
                 "source": "Flour-Less Peanut Butter Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Mom's Best Chocolate Chip Cookies",
@@ -12154,7 +12236,7 @@
             },
             {
                 "name": "egg",
-                "amount": 55.0,
+                "amount": 6.7138671875e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -12222,7 +12304,8 @@
                 "is_indonesian": false,
                 "source": "Mom's Best Chocolate Chip Cookies"
             }
-        ]
+        ],
+        "fitness": 1
     },
     {
         "name": "Gluten Free Oatmeal Raisin Cookies",
@@ -12331,7 +12414,7 @@
             },
             {
                 "name": "egg",
-                "amount": 50.0,
+                "amount": 6.103515625e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -12349,7 +12432,8 @@
                 "is_indonesian": false,
                 "source": "Gluten Free Oatmeal Raisin Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Divine Christmas Candy Cane Cookies",
@@ -12368,7 +12452,7 @@
             },
             {
                 "name": "egg yolk",
-                "amount": 55.0,
+                "amount": 6.7138671875e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -12426,7 +12510,8 @@
                 "is_indonesian": false,
                 "source": "Divine Christmas Candy Cane Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Carrot Raisin Chocolate Chip Cookies",
@@ -12445,7 +12530,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 100.0,
+                "amount": 1.220703125e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -12483,7 +12568,8 @@
                 "is_indonesian": false,
                 "source": "Carrot Raisin Chocolate Chip Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Chocolate Peanut Butter-Filled Cookies",
@@ -12630,7 +12716,8 @@
                 "is_indonesian": false,
                 "source": "Chocolate Peanut Butter-Filled Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Baby Blake’s Oatmeal Breakfast Cookies",
@@ -12709,7 +12796,7 @@
             },
             {
                 "name": "egg",
-                "amount": 55.0,
+                "amount": 6.7138671875e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -12786,7 +12873,8 @@
                 "is_indonesian": false,
                 "source": "Baby Blake’s Oatmeal Breakfast Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Coconut Chow Mein Butterscotch Cookies",
@@ -12825,7 +12913,7 @@
             },
             {
                 "name": "egg",
-                "amount": 55.0,
+                "amount": 6.7138671875e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -12963,7 +13051,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 100.0,
+                "amount": 1.220703125e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -13130,7 +13218,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 110.0,
+                "amount": 1.3427734375e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -13178,7 +13266,8 @@
                 "is_indonesian": false,
                 "source": "Cranberry-Orange Pistachio Chip Cookies"
             }
-        ]
+        ],
+        "fitness": 1
     },
     {
         "name": "Banana, Oatmeal, Chocolate Chip Cookies",
@@ -13247,7 +13336,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 100.0,
+                "amount": 1.220703125e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -13305,7 +13394,8 @@
                 "is_indonesian": false,
                 "source": "Banana, Oatmeal, Chocolate Chip Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Chocolate Chip Strawberry Crunch Cookies",
@@ -13374,7 +13464,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 100.0,
+                "amount": 1.220703125e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -13412,7 +13502,8 @@
                 "is_indonesian": false,
                 "source": "Chocolate Chip Strawberry Crunch Cookies"
             }
-        ]
+        ],
+        "fitness": 1
     },
     {
         "name": "Chocolate & Strawberry Thumbprint Cookies",
@@ -13529,7 +13620,8 @@
                 "is_indonesian": false,
                 "source": "Chocolate & Strawberry Thumbprint Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Insanely Chocolaty Chewable Sandwich Cookies",
@@ -13725,7 +13817,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 100.0,
+                "amount": 1.220703125e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -13900,7 +13992,8 @@
                 "is_indonesian": false,
                 "source": "No-Bake Cookies with Coconut Oil"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "The Best Raw Chocolate Chip Cookies",
@@ -13987,7 +14080,8 @@
                 "is_indonesian": false,
                 "source": "The Best Raw Chocolate Chip Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Florentine Cookies With Added Pistachios & Raisins",
@@ -14074,7 +14168,8 @@
                 "is_indonesian": false,
                 "source": "Florentine Cookies With Added Pistachios & Raisins"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Bad Boy\" Giant Double Chocolate Cookies",
@@ -14113,7 +14208,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 150.0,
+                "amount": 1.8310546875e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -14161,7 +14256,8 @@
                 "is_indonesian": false,
                 "source": "Bad Boy\" Giant Double Chocolate Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Gluten-Free Pressed Lemon Butter Cookies",
@@ -14190,7 +14286,7 @@
             },
             {
                 "name": "egg yolks",
-                "amount": 165.0,
+                "amount": 2.01416015625e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -14376,7 +14472,8 @@
                 "is_indonesian": false,
                 "source": "Old-Fashioned Oatmeal Raisin Pecan Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Reeses Peanut Butter Chocolate Chip Cookies",
@@ -14412,7 +14509,8 @@
                 "is_indonesian": false,
                 "source": "Reeses Peanut Butter Chocolate Chip Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Chocolate Chip Peanut Butter Banana Cookies",
@@ -14501,7 +14599,7 @@
             },
             {
                 "name": "egg",
-                "amount": 50.0,
+                "amount": 6.103515625e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -14549,7 +14647,8 @@
                 "is_indonesian": false,
                 "source": "Chocolate Chip Peanut Butter Banana Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Peanut Butter-Oatmeal Chocolate Chip Cookies",
@@ -14648,7 +14747,7 @@
             },
             {
                 "name": "egg",
-                "amount": 50.0,
+                "amount": 6.103515625e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -14715,7 +14814,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 200.0,
+                "amount": 2.44140625e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -14813,7 +14912,8 @@
                 "is_indonesian": false,
                 "source": "Neiman Marcus Oatmeal Chocolate Chip Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Hazelnut & Coconut Shortbread Sandwich Cookies",
@@ -14890,7 +14990,8 @@
                 "is_indonesian": false,
                 "source": "Hazelnut & Coconut Shortbread Sandwich Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "White Chocolate Cranberry Macadamia Nut Cookies",
@@ -14949,7 +15050,7 @@
             },
             {
                 "name": "eggs",
-                "amount": 100.0,
+                "amount": 1.220703125e+24,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
@@ -15017,7 +15118,8 @@
                 "is_indonesian": false,
                 "source": "White Chocolate Cranberry Macadamia Nut Cookies"
             }
-        ]
+        ],
+        "fitness": 0
     },
     {
         "name": "Peanut Butter Cookies with Flax Seeds and Chocolate",
@@ -15046,7 +15148,7 @@
             },
             {
                 "name": "egg",
-                "amount": 50.0,
+                "amount": 6.103515625e+23,
                 "unit": "g",
                 "type": "binders",
                 "cons": "SOLID",
