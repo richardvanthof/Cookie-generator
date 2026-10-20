@@ -6631,15 +6631,6 @@
                 "flavour": "aromatic",
                 "is_indonesian": false,
                 "source": "Fidget Spinner Cookies"
-            },
-            {
-                "name": "saran wrap",
-                "amount": 20.0,
-                "unit": "servings",
-                "type": "Bakery/Bread",
-                "cons": "SOLID",
-                "is_indonesian": false,
-                "source": "Fidget Spinner Cookies"
             }
         ]
     },
@@ -8112,7 +8103,7 @@
                 "name": "confectioners' sugar",
                 "amount": 180.0,
                 "unit": "g",
-                "type": "Baking",
+                "type": "sugars",
                 "cons": "SOLID",
                 "source": "Chocolate Crinkle Cookies"
             },
@@ -8296,7 +8287,7 @@
                 "name": "almond meal )",
                 "amount": 224.0,
                 "unit": "g",
-                "type": "Gluten Free",
+                "type": "seeds_nuts_dried_fruits",
                 "cons": "SOLID",
                 "source": "Amaretto Chocolate Cookies"
             },
@@ -8705,7 +8696,7 @@
                 "name": "confectioners' sugar",
                 "amount": 180.0,
                 "unit": "g",
-                "type": "Baking",
+                "type": "sugars",
                 "cons": "SOLID",
                 "source": "Peanutbutter Sandwich Cookies"
             },
@@ -9033,7 +9024,7 @@
                 "source": "Best Soft Ginger Cookies"
             },
             {
-                "name": "fancy” molasses",
+                "name": "fancy\u201d molasses",
                 "amount": 168.5,
                 "unit": "ml",
                 "type": "sugars",
@@ -10320,24 +10311,6 @@
                 "source": "Captain America Shield Cookies"
             },
             {
-                "name": "circular cookie cutters",
-                "amount": 3.0,
-                "unit": "",
-                "type": "Sweet Snacks",
-                "cons": "SOLID",
-                "is_indonesian": false,
-                "source": "Captain America Shield Cookies"
-            },
-            {
-                "name": "star cookie cutter",
-                "amount": 12.0,
-                "unit": "servings",
-                "type": "Sweet Snacks",
-                "cons": "SOLID",
-                "is_indonesian": false,
-                "source": "Captain America Shield Cookies"
-            },
-            {
                 "name": "cornstarch",
                 "amount": 12.0,
                 "unit": "servings",
@@ -10763,7 +10736,7 @@
                 "name": "confectioners' sugar",
                 "amount": 60.0,
                 "unit": "g",
-                "type": "Baking",
+                "type": "sugars",
                 "cons": "SOLID",
                 "source": "Cacao-Pecan Shortbread Cookies"
             },
@@ -10973,14 +10946,6 @@
                 "cons": "SOLID",
                 "flavour": "sweet",
                 "is_indonesian": false,
-                "source": "Peanut Butter Sriracha Cookies"
-            },
-            {
-                "name": "add a hershey's chocolate kiss on top as done",
-                "amount": 236.588,
-                "unit": "ml",
-                "type": "Sweet Snacks",
-                "cons": "SOLID",
                 "source": "Peanut Butter Sriracha Cookies"
             }
         ]
@@ -12720,7 +12685,7 @@
         "fitness": 0
     },
     {
-        "name": "Baby Blake’s Oatmeal Breakfast Cookies",
+        "name": "Baby Blake\u2019s Oatmeal Breakfast Cookies",
         "family": "cookie",
         "servings": 32,
         "ingredients": [
@@ -12732,7 +12697,7 @@
                 "cons": "SOLID",
                 "flavour": "none",
                 "is_indonesian": false,
-                "source": "Baby Blake’s Oatmeal Breakfast Cookies"
+                "source": "Baby Blake\u2019s Oatmeal Breakfast Cookies"
             },
             {
                 "name": "flour",
@@ -12742,7 +12707,7 @@
                 "cons": "SOLID",
                 "flavour": "none",
                 "is_indonesian": false,
-                "source": "Baby Blake’s Oatmeal Breakfast Cookies"
+                "source": "Baby Blake\u2019s Oatmeal Breakfast Cookies"
             },
             {
                 "name": "cooking oats",
@@ -12752,7 +12717,7 @@
                 "cons": "SOLID",
                 "flavour": "none",
                 "is_indonesian": false,
-                "source": "Baby Blake’s Oatmeal Breakfast Cookies"
+                "source": "Baby Blake\u2019s Oatmeal Breakfast Cookies"
             },
             {
                 "name": "baking powder",
@@ -12762,7 +12727,7 @@
                 "cons": "SOLID",
                 "flavour": "none",
                 "is_indonesian": false,
-                "source": "Baby Blake’s Oatmeal Breakfast Cookies"
+                "source": "Baby Blake\u2019s Oatmeal Breakfast Cookies"
             },
             {
                 "name": "salt",
@@ -12772,7 +12737,7 @@
                 "cons": "SOLID",
                 "flavour": "salt",
                 "is_indonesian": false,
-                "source": "Baby Blake’s Oatmeal Breakfast Cookies"
+                "source": "Baby Blake\u2019s Oatmeal Breakfast Cookies"
             },
             {
                 "name": "cinnamon",
@@ -12782,7 +12747,7 @@
                 "cons": "SOLID",
                 "flavour": "aromatic",
                 "is_indonesian": false,
-                "source": "Baby Blake’s Oatmeal Breakfast Cookies"
+                "source": "Baby Blake\u2019s Oatmeal Breakfast Cookies"
             },
             {
                 "name": "sugar",
@@ -12792,7 +12757,7 @@
                 "cons": "SOLID",
                 "flavour": "sweet",
                 "is_indonesian": false,
-                "source": "Baby Blake’s Oatmeal Breakfast Cookies"
+                "source": "Baby Blake\u2019s Oatmeal Breakfast Cookies"
             },
             {
                 "name": "egg",
@@ -12802,7 +12767,7 @@
                 "cons": "SOLID",
                 "flavour": "none",
                 "is_indonesian": false,
-                "source": "Baby Blake’s Oatmeal Breakfast Cookies"
+                "source": "Baby Blake\u2019s Oatmeal Breakfast Cookies"
             },
             {
                 "name": "egg white",
@@ -12812,7 +12777,7 @@
                 "cons": "SOLID",
                 "flavour": "none",
                 "is_indonesian": false,
-                "source": "Baby Blake’s Oatmeal Breakfast Cookies"
+                "source": "Baby Blake\u2019s Oatmeal Breakfast Cookies"
             },
             {
                 "name": "vanilla",
@@ -12822,7 +12787,7 @@
                 "cons": "SOLID",
                 "flavour": "aromatic",
                 "is_indonesian": false,
-                "source": "Baby Blake’s Oatmeal Breakfast Cookies"
+                "source": "Baby Blake\u2019s Oatmeal Breakfast Cookies"
             },
             {
                 "name": "molasses",
@@ -12832,16 +12797,7 @@
                 "cons": "SOLID",
                 "flavour": "sweet",
                 "is_indonesian": false,
-                "source": "Baby Blake’s Oatmeal Breakfast Cookies"
-            },
-            {
-                "name": "you can use store purchased",
-                "amount": 236.588,
-                "unit": "g",
-                "type": "Frozen",
-                "cons": "SOLID",
-                "is_indonesian": false,
-                "source": "Baby Blake’s Oatmeal Breakfast Cookies"
+                "source": "Baby Blake\u2019s Oatmeal Breakfast Cookies"
             },
             {
                 "name": "canola oil",
@@ -12851,7 +12807,7 @@
                 "cons": "LIQUID",
                 "flavour": "none",
                 "is_indonesian": false,
-                "source": "Baby Blake’s Oatmeal Breakfast Cookies"
+                "source": "Baby Blake\u2019s Oatmeal Breakfast Cookies"
             },
             {
                 "name": "raisins",
@@ -12861,7 +12817,7 @@
                 "cons": "SOLID",
                 "flavour": "sweet",
                 "is_indonesian": false,
-                "source": "Baby Blake’s Oatmeal Breakfast Cookies"
+                "source": "Baby Blake\u2019s Oatmeal Breakfast Cookies"
             },
             {
                 "name": "apples",
@@ -12871,7 +12827,7 @@
                 "cons": "SOLID",
                 "flavour": "sweet",
                 "is_indonesian": false,
-                "source": "Baby Blake’s Oatmeal Breakfast Cookies"
+                "source": "Baby Blake\u2019s Oatmeal Breakfast Cookies"
             }
         ],
         "fitness": 0
@@ -13227,7 +13183,7 @@
                 "source": "Cranberry-Orange Pistachio Chip Cookies"
             },
             {
-                "name": "nestlé® toll house® premier morsels",
+                "name": "nestl\u00e9\u00ae toll house\u00ae premier morsels",
                 "amount": 170.097,
                 "unit": "g",
                 "type": "sugars",
@@ -14487,15 +14443,6 @@
                 "type": "starches",
                 "cons": "SOLID",
                 "flavour": "sweet",
-                "is_indonesian": false,
-                "source": "Reeses Peanut Butter Chocolate Chip Cookies"
-            },
-            {
-                "name": "muffin tins",
-                "amount": 4.0,
-                "unit": "servings",
-                "type": "Bakery/Bread",
-                "cons": "SOLID",
                 "is_indonesian": false,
                 "source": "Reeses Peanut Butter Chocolate Chip Cookies"
             },
