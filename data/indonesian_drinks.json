@@ -1,7 +1,7 @@
 [
     {
         "name": "Jamu Kunyit Asam (Cook Me Indonesian)",
-        "family": "kunyit_asam",
+        "family": "drink",
         "servings": 8,
         "source": "https://www.cookmeindonesian.com",
         "ingredients": [
@@ -13,7 +13,7 @@
     },
     {
         "name": "Jamu Kunyit (Cookpad)",
-        "family": "kunyit_asam",
+        "family": "drink",
         "servings": 1,
         "source": "https://cookpad.com/id/resep/26707202",
         "ingredients": [
@@ -25,7 +25,7 @@
     },
     {
         "name": "Beras Kencur (Cook Me Indonesian)",
-        "family": "beras_kencur",
+        "family": "drink",
         "servings": 4,
         "source": "https://www.cookmeindonesian.com",
         "ingredients": [
@@ -41,7 +41,7 @@
     },
     {
         "name": "Beras Kencur (Segari)",
-        "family": "beras_kencur",
+        "family": "drink",
         "servings": 4,
         "source": "https://segari.id/jamu-beras-kencur",
         "ingredients": [
@@ -55,7 +55,7 @@
     },
     {
         "name": "Wedang Temulawak (Indonesia Secret Kitchen)",
-        "family": "temulawak",
+        "family": "drink",
         "servings": 5,
         "source": "https://indonesiasecretkitchen.blogspot.com",
         "ingredients": [
@@ -70,7 +70,7 @@
     },
     {
         "name": "Sinom (Cookpad)",
-        "family": "sinom",
+        "family": "drink",
         "servings": 5,
         "source": "https://cookpad.com/id/resep/26486284",
         "ingredients": [
@@ -85,7 +85,7 @@
     },
     {
         "name": "Es Cendol (Segari)",
-        "family": "es_cendol",
+        "family": "drink",
         "servings": 4,
         "source": "https://segari.id/es-cendol",
         "ingredients": [
@@ -101,7 +101,7 @@
     },
     {
         "name": "Es Campur (Daily Cooking Quest)",
-        "family": "es_campur",
+        "family": "drink",
         "servings": 1,
         "source": "https://www.dailycookingquest.com",
         "ingredients": [
@@ -117,7 +117,7 @@
     },
     {
         "name": "Es Sop Buah",
-        "family": "es_sop_buah",
+        "family": "drink",
         "servings": 4,
         "source": "",
         "ingredients": [
@@ -131,7 +131,7 @@
     },
     {
         "name": "Sekoteng (Femina)",
-        "family": "sekoteng",
+        "family": "drink",
         "servings": 5,
         "source": "https://v-recipes.blogspot.com",
         "ingredients": [
@@ -147,7 +147,7 @@
     },
     {
         "name": "Wedang Jahe (Segari)",
-        "family": "wedang_jahe",
+        "family": "drink",
         "servings": 4,
         "source": "https://segari.id/wedang-jahe",
         "ingredients": [
@@ -161,7 +161,7 @@
     },
     {
         "name": "Wedang Jahe Susu (Detik)",
-        "family": "wedang_jahe",
+        "family": "drink",
         "servings": 2,
         "source": "https://food.detik.com",
         "ingredients": [
@@ -176,7 +176,7 @@
     },
     {
         "name": "Bandrek (Cook Me Indonesian)",
-        "family": "bandrek",
+        "family": "drink",
         "servings": 4,
         "source": "https://www.cookmeindonesian.com",
         "ingredients": [
@@ -192,7 +192,7 @@
     },
     {
         "name": "Wedang Uwuh (OpenDrinks)",
-        "family": "wedang_uwuh",
+        "family": "drink",
         "servings": 4,
         "source": "https://opendrinks.io",
         "ingredients": [
@@ -210,7 +210,7 @@
     },
     {
         "name": "Bajigur (Amanprana)",
-        "family": "bajigur",
+        "family": "drink",
         "servings": 4,
         "source": "https://amanprana.eu",
         "ingredients": [
@@ -227,7 +227,7 @@
     },
     {
         "name": "Kopi Bajigur (Nespresso)",
-        "family": "bajigur",
+        "family": "drink",
         "servings": 1,
         "source": "https://nespresso.co.id",
         "ingredients": [
@@ -242,7 +242,7 @@
     },
     {
         "name": "Bajigur with Toddy Palm Fruit (Daily Cooking Quest)",
-        "family": "bajigur",
+        "family": "drink",
         "servings": 4,
         "source": "https://www.dailycookingquest.com",
         "ingredients": [
@@ -257,7 +257,7 @@
     },
     {
         "name": "Coconut Coffee with Ginger (Art and Kitchen)",
-        "family": "bajigur",
+        "family": "drink",
         "servings": 4,
         "source": "https://artandkitchen.wordpress.com",
         "ingredients": [
@@ -277,7 +277,7 @@
     },
     {
         "name": "Teh Tarik (Frisian Flag)",
-        "family": "teh_tarik",
+        "family": "drink",
         "servings": 2,
         "source": "https://www.frisianflag.com",
         "ingredients": [
@@ -289,7 +289,7 @@
     },
     {
         "name": "Teh Tarik (video recipe)",
-        "family": "teh_tarik",
+        "family": "drink",
         "servings": 1,
         "source": "https://www.youtube.com/watch?v=kBLSnX8xCCc",
         "ingredients": [
@@ -302,7 +302,7 @@
     },
     {
         "name": "Es Teh Manis (Mama Miyuki)",
-        "family": "es_teh_manis",
+        "family": "drink",
         "servings": 1,
         "source": "https://cookingwithmamamiyuki.wordpress.com",
         "ingredients": [
@@ -314,7 +314,7 @@
     },
     {
         "name": "Kopi Susu Gula Aren (Otten Coffee)",
-        "family": "kopi_susu_gula_aren",
+        "family": "drink",
         "servings": 1,
         "source": "https://ottencoffee.co.id",
         "ingredients": [
@@ -329,7 +329,7 @@
     },
     {
         "name": "Kopi Tubruk (Otten Coffee)",
-        "family": "kopi_tubruk",
+        "family": "drink",
         "servings": 1,
         "source": "https://ottencoffee.co.id",
         "ingredients": [
@@ -339,7 +339,7 @@
     },
     {
         "name": "Es Soda Gembira (Daily Cooking Quest)",
-        "family": "es_soda_gembira",
+        "family": "drink",
         "servings": 1,
         "source": "https://www.dailycookingquest.com",
         "ingredients": [
@@ -351,7 +351,7 @@
     },
     {
         "name": "Es Susu Kedelai (Daily Cooking Quest)",
-        "family": "susu_kedelai",
+        "family": "drink",
         "servings": 4,
         "source": "https://www.dailycookingquest.com/susu-kacang-kedelai-soy-milk.html",
         "ingredients": [
@@ -361,314 +361,207 @@
         { "name": "pandan leaf", "amount": 10, "unit": "g", "flavour": "aromatic", "type": "Spices and Seasonings", "cons": "SOLID" }
         ]
     },
-    {
-        "name": "Kue Bika Ambon Panggang",
-        "family": "bika_ambon",
-        "servings": 8,
-        "source": "https://arc.net/l/quote/hvqsgkts",
+  {
+    "name": "Es Kelapa Muda (Indofood)",
+    "family": "drink",
+    "servings": 1,
+    "source": "https://arc.net/l/quote/zikegnul",
+    "ingredients": [
+      { "name": "young coconut water", "amount": 240, "unit": "ml", "flavour": "sweet", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "young coconut flesh", "amount": 75, "unit": "g", "flavour": "sweet", "type": "Produce", "cons": "SOLID" },
+      { "name": "sugar syrup", "amount": 15, "unit": "ml", "flavour": "sweet", "type": "Baking", "cons": "LIQUID" },
+      { "name": "ice", "amount": 100, "unit": "g", "flavour": "none", "type": "Frozen", "cons": "SOLID" },
+      { "name": "pandan leaf", "amount": 5, "unit": "g", "flavour": "aromatic", "type": "Spices and Seasonings", "cons": "SOLID" }
+    ]
+  },
+  {
+    "name": "Es Alpukat",
+    "family": "drink",
+    "servings": 1,
+    "source": "https://www.indofoodstore.com/blogs/news/es-alpukat-recipe-indonesian-ingredients",
+    "ingredients": [
+      { "name": "avocado", "amount": 150, "unit": "g", "flavour": "creamy", "type": "Produce", "cons": "SOLID" },
+      { "name": "sweetened condensed milk", "amount": 20, "unit": "g", "flavour": "sweet", "type": "Milk, Eggs, Other Dairy", "cons": "LIQUID" },
+      { "name": "chocolate syrup", "amount": 20, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "LIQUID" },
+      { "name": "sugar", "amount": 4, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
+      { "name": "basil seed", "amount": 3, "unit": "g", "flavour": "none", "type": "Health Foods", "cons": "SOLID" },
+      { "name": "ice", "amount": 80, "unit": "g", "flavour": "none", "type": "Frozen", "cons": "SOLID" },
+      { "name": "water", "amount": 60, "unit": "ml", "flavour": "none", "type": "Beverages", "cons": "LIQUID" }
+    ]
+  },
+  {
+    "name": "Es Cendol",
+    "family": "drink",
+    "servings": 1,
+    "source": "https://www.indofoodstore.com/blogs/news/es-cendol-recipe-indonesian-ingredients-video",
+    "ingredients": [
+      { "name": "mung bean starch", "amount": 100, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
+      { "name": "pandan juice", "amount": 500, "unit": "ml", "flavour": "aromatic", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "salt", "amount": 2, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" },
+      { "name": "palm sugar", "amount": 200, "unit": "g", "flavour": "sweet", "type": "Ethnic Foods", "cons": "SOLID" },
+      { "name": "water", "amount": 100, "unit": "ml", "flavour": "none", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "pandan leaf", "amount": 10, "unit": "g", "flavour": "aromatic", "type": "Spices and Seasonings", "cons": "SOLID" },
+      { "name": "coconut milk", "amount": 250, "unit": "ml", "flavour": "creamy", "type": "Canned and Jarred", "cons": "LIQUID" },
+      { "name": "ice", "amount": 150, "unit": "g", "flavour": "none", "type": "Frozen", "cons": "SOLID" }
+    ]
+  },
+  {
+    "name": "Es Teler",
+    "family": "drink",
+    "servings": 1,
+    "source": "https://www.indofoodstore.com/blogs/news/es-teler-recipe-indonesian-ingredients",
+    "ingredients": [
+      { "name": "young coconut flesh", "amount": 150, "unit": "g", "flavour": "sweet", "type": "Produce", "cons": "SOLID" },
+      { "name": "jackfruit", "amount": 150, "unit": "g", "flavour": "sweet", "type": "Produce", "cons": "SOLID" },
+      { "name": "avocado", "amount": 150, "unit": "g", "flavour": "creamy", "type": "Produce", "cons": "SOLID" },
+      { "name": "coconut milk", "amount": 240, "unit": "ml", "flavour": "creamy", "type": "Canned and Jarred", "cons": "LIQUID" },
+      { "name": "sweetened condensed milk", "amount": 150, "unit": "g", "flavour": "sweet", "type": "Milk, Eggs, Other Dairy", "cons": "LIQUID" },
+      { "name": "cocopandan syrup", "amount": 22, "unit": "ml", "flavour": "sweet", "type": "Ethnic Foods", "cons": "LIQUID" },
+      { "name": "ice", "amount": 160, "unit": "g", "flavour": "none", "type": "Frozen", "cons": "SOLID" },
+      { "name": "pandan leaf", "amount": 5, "unit": "g", "flavour": "aromatic", "type": "Spices and Seasonings", "cons": "SOLID" }
+    ]
+  },
+  {
+    "name": "Es Delima",
+    "family": "drink",
+    "servings": 1,
+    "source": "https://www.indofoodstore.com/blogs/news/es-delima-recipe-indonesian-ingredients",
+    "ingredients": [
+      { "name": "water chestnut", "amount": 80, "unit": "g", "flavour": "none", "type": "Canned and Jarred", "cons": "SOLID" },
+      { "name": "food colouring", "amount": 0.5, "unit": "ml", "flavour": "none", "type": "Baking", "cons": "LIQUID" },
+      { "name": "tapioca starch", "amount": 60, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
+      { "name": "coconut milk", "amount": 240, "unit": "ml", "flavour": "creamy", "type": "Canned and Jarred", "cons": "LIQUID" },
+      { "name": "sugar", "amount": 20, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
+      { "name": "salt", "amount": 3, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" },
+      { "name": "ice", "amount": 150, "unit": "g", "flavour": "none", "type": "Frozen", "cons": "SOLID" },
+      { "name": "cocopandan syrup", "amount": 15, "unit": "ml", "flavour": "sweet", "type": "Ethnic Foods", "cons": "LIQUID" }
+    ]
+  },
+  {
+    "name": "Es Kelapa Jeruk (Cookpad)",
+    "family": "drink",
+    "servings": 6,
+    "source": "https://cookpad.com/id/resep/26638317?search_term=es+kelapa+muda",
+    "ingredients": [
+      { "name": "basil seed", "amount": 3, "unit": "g", "flavour": "none", "type": "Health Foods", "cons": "SOLID" },
+      { "name": "young coconut water", "amount": 350, "unit": "ml", "flavour": "sweet", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "young coconut flesh", "amount": 150, "unit": "g", "flavour": "sweet", "type": "Produce", "cons": "SOLID" },
+      { "name": "orange juice", "amount": 300, "unit": "ml", "flavour": "acidity", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "sugar", "amount": 38, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
+      { "name": "water", "amount": 200, "unit": "ml", "flavour": "none", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "ice", "amount": 300, "unit": "g", "flavour": "none", "type": "Frozen", "cons": "SOLID" }
+    ]
+  },
+  {
+    "name": "Es Kelapa Muda Smoothie",
+    "family": "drink",
+    "servings": 4,
+    "source": "https://hellosehat.com/nutrisi/resep-sehat/resep-es-kelapa-muda/",
+    "ingredients": [
+      { "name": "young coconut water", "amount": 700, "unit": "ml", "flavour": "sweet", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "young coconut flesh", "amount": 300, "unit": "g", "flavour": "sweet", "type": "Produce", "cons": "SOLID" },
+      { "name": "strawberry", "amount": 150, "unit": "g", "flavour": "sweet", "type": "Produce", "cons": "SOLID" },
+      { "name": "yogurt", "amount": 240, "unit": "g", "flavour": "acidity", "type": "Milk, Eggs, Other Dairy", "cons": "LIQUID" },
+      { "name": "ice", "amount": 200, "unit": "g", "flavour": "none", "type": "Frozen", "cons": "SOLID" }
+    ]
+  },
+  {
+    "name": "Es Kelapa Muda Jeruk (Honey)",
+    "family": "drink",
+    "servings": 4,
+    "source": "https://hellosehat.com/nutrisi/resep-sehat/resep-es-kelapa-muda/",
+    "ingredients": [
+      { "name": "young coconut water", "amount": 700, "unit": "ml", "flavour": "sweet", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "young coconut flesh", "amount": 300, "unit": "g", "flavour": "sweet", "type": "Produce", "cons": "SOLID" },
+      { "name": "honey", "amount": 100, "unit": "g", "flavour": "sweet", "type": "Nut butters, Jams, and Honey", "cons": "LIQUID" },
+      { "name": "orange juice", "amount": 300, "unit": "ml", "flavour": "acidity", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "ice", "amount": 200, "unit": "g", "flavour": "none", "type": "Frozen", "cons": "SOLID" }
+    ]
+  },
+  {
+    "name": "Es Kelapa Muda Melon",
+    "family": "drink",
+    "servings": 5,
+    "source": "https://hellosehat.com/nutrisi/resep-sehat/resep-es-kelapa-muda/",
+    "ingredients": [
+      { "name": "young coconut water", "amount": 700, "unit": "ml", "flavour": "sweet", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "young coconut flesh", "amount": 300, "unit": "g", "flavour": "sweet", "type": "Produce", "cons": "SOLID" },
+      { "name": "melon", "amount": 200, "unit": "g", "flavour": "sweet", "type": "Produce", "cons": "SOLID" },
+      { "name": "nata de coco", "amount": 500, "unit": "g", "flavour": "none", "type": "Ethnic Foods", "cons": "SOLID" },
+      { "name": "basil seed", "amount": 8, "unit": "g", "flavour": "none", "type": "Health Foods", "cons": "SOLID" },
+      { "name": "ice", "amount": 200, "unit": "g", "flavour": "none", "type": "Frozen", "cons": "SOLID" }
+    ]
+  },
+  {
+    "name": "Es Kelapa Muda Kombinasi",
+    "family": "drink",
+    "servings": 5,
+    "source": "https://hellosehat.com/nutrisi/resep-sehat/resep-es-kelapa-muda/",
+    "ingredients": [
+      { "name": "young coconut water", "amount": 700, "unit": "ml", "flavour": "sweet", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "young coconut flesh", "amount": 300, "unit": "g", "flavour": "sweet", "type": "Produce", "cons": "SOLID" },
+      { "name": "nata de coco", "amount": 250, "unit": "g", "flavour": "none", "type": "Ethnic Foods", "cons": "SOLID" },
+      { "name": "jackfruit", "amount": 150, "unit": "g", "flavour": "sweet", "type": "Produce", "cons": "SOLID" },
+      { "name": "salt", "amount": 3, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" },
+      { "name": "water", "amount": 200, "unit": "ml", "flavour": "none", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "honey", "amount": 100, "unit": "g", "flavour": "sweet", "type": "Nut butters, Jams, and Honey", "cons": "LIQUID" },
+      { "name": "pandan leaf", "amount": 15, "unit": "g", "flavour": "aromatic", "type": "Spices and Seasonings", "cons": "SOLID" },
+      { "name": "ice", "amount": 200, "unit": "g", "flavour": "none", "type": "Frozen", "cons": "SOLID" }
+    ]
+  },
+  {
+    "name": "Wedang Ronde (Cook Me Indonesian)",
+    "family": "drink",
+    "servings": 5,
+    "source": "https://www.cookmeindonesian.com/wedang-ronde-dessert-glutinous-rice-balls-in-sweet-ginger-soup/",
+    "ingredients": [
+      { "name": "peanut", "amount": 40, "unit": "g", "flavour": "none", "type": "Nuts", "cons": "SOLID" },
+      { "name": "sugar", "amount": 50, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
+      { "name": "glutinous rice flour", "amount": 200, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
+      { "name": "tapioca starch", "amount": 8, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
+      { "name": "water", "amount": 1120, "unit": "ml", "flavour": "none", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "salt", "amount": 1, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" },
+      { "name": "food colouring", "amount": 0.2, "unit": "ml", "flavour": "none", "type": "Baking", "cons": "LIQUID" },
+      { "name": "ginger", "amount": 200, "unit": "g", "flavour": "spice", "type": "Produce", "cons": "SOLID" },
+      { "name": "pandan leaf", "amount": 10, "unit": "g", "flavour": "aromatic", "type": "Spices and Seasonings", "cons": "SOLID" },
+      { "name": "palm sugar", "amount": 100, "unit": "g", "flavour": "sweet", "type": "Ethnic Foods", "cons": "SOLID" },
+      { "name": "sugar palm fruit", "amount": 50, "unit": "g", "flavour": "none", "type": "Ethnic Foods", "cons": "SOLID" }
+    ]
+  },
+  {
+    "name": "Wedang Ronde (Siska's Recipes)",
+    "family": "drink",
+    "servings": 5,
+    "source": "https://siskasrecipes.weebly.com/recipes/wedang-ronde",
+    "ingredients": [
+      { "name": "glutinous rice flour", "amount": 125, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
+      { "name": "tapioca starch", "amount": 16, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
+      { "name": "water", "amount": 1650, "unit": "ml", "flavour": "none", "type": "Beverages", "cons": "LIQUID" },
+      { "name": "salt", "amount": 1, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" },
+      { "name": "food colouring", "amount": 0.2, "unit": "ml", "flavour": "none", "type": "Baking", "cons": "LIQUID" },
+      { "name": "peanut", "amount": 30, "unit": "g", "flavour": "none", "type": "Nuts", "cons": "SOLID" },
+      { "name": "sugar", "amount": 165, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
+      { "name": "palm sugar", "amount": 30, "unit": "g", "flavour": "sweet", "type": "Ethnic Foods", "cons": "SOLID" },
+      { "name": "ginger", "amount": 200, "unit": "g", "flavour": "spice", "type": "Produce", "cons": "SOLID" },
+      { "name": "lemongrass", "amount": 20, "unit": "g", "flavour": "aromatic", "type": "Produce", "cons": "SOLID" },
+      { "name": "kaffir lime leaf", "amount": 2, "unit": "g", "flavour": "aromatic", "type": "Produce", "cons": "SOLID" },
+      { "name": "pandan leaf", "amount": 8, "unit": "g", "flavour": "aromatic", "type": "Spices and Seasonings", "cons": "SOLID" }
+    ]
+    },
+     {
+        "name": "Wedang Ronde (Asian Inspirations)",
+        "family": "drink",
+        "servings": 3,
+        "source": "https://asianinspirations.com.au/recipes/indonesian-glutinous-rice-balls-in-ginger-syrup-wedang-ronde/",
         "ingredients": [
-        { "name": "instant yeast", "amount": 3, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "plain flour", "amount": 20, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "sugar", "amount": 200, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
-        { "name": "water", "amount": 60, "unit": "ml", "flavour": "none", "type": "Beverages", "cons": "LIQUID" },
-        { "name": "coconut milk", "amount": 400, "unit": "ml", "flavour": "creamy", "type": "Canned and Jarred", "cons": "LIQUID" },
-        { "name": "turmeric powder", "amount": 3, "unit": "g", "flavour": "spice", "type": "Spices and Seasonings", "cons": "SOLID" },
-        { "name": "kaffir lime leaf", "amount": 3, "unit": "g", "flavour": "aromatic", "type": "Produce", "cons": "SOLID" },
+        { "name": "water", "amount": 580, "unit": "ml", "flavour": "none", "type": "Beverages", "cons": "LIQUID" },
+        { "name": "ginger", "amount": 50, "unit": "g", "flavour": "spice", "type": "Produce", "cons": "SOLID" },
         { "name": "lemongrass", "amount": 20, "unit": "g", "flavour": "aromatic", "type": "Produce", "cons": "SOLID" },
-        { "name": "tapioca starch", "amount": 250, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "eggs", "amount": 250, "unit": "g", "flavour": "none", "type": "Milk, Eggs, Other Dairy", "cons": "SOLID" },
-        { "name": "butter", "amount": 50, "unit": "g", "flavour": "creamy", "type": "Milk, Eggs, Other Dairy", "cons": "SOLID" },
-        { "name": "salt", "amount": 2, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" }
-        ]
-    },
-    {
-        "name": "Kue Bingka Ubi (with egg)",
-        "family": "bingka_ubi",
-        "servings": 8,
-        "source": "https://arc.net/l/quote/nqixnhzl",
-        "ingredients": [
-        { "name": "grated cassava", "amount": 500, "unit": "g", "flavour": "none", "type": "Produce", "cons": "SOLID" },
-        { "name": "sugar", "amount": 150, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
-        { "name": "coconut milk", "amount": 200, "unit": "ml", "flavour": "creamy", "type": "Canned and Jarred", "cons": "LIQUID" },
-        { "name": "coconut oil", "amount": 30, "unit": "ml", "flavour": "none", "type": "Oil, Vinegar, Salad Dressing", "cons": "LIQUID" },
-        { "name": "eggs", "amount": 50, "unit": "g", "flavour": "none", "type": "Milk, Eggs, Other Dairy", "cons": "SOLID" },
-        { "name": "salt", "amount": 2, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" },
-        { "name": "tapioca starch", "amount": 20, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "turmeric powder", "amount": 2, "unit": "g", "flavour": "spice", "type": "Spices and Seasonings", "cons": "SOLID" }
-        ]
-    },
-    {
-        "name": "Kue Bingka Ubi (eggless)",
-        "family": "bingka_ubi",
-        "servings": 8,
-        "source": "https://arc.net/l/quote/nqixnhzl",
-        "ingredients": [
-        { "name": "grated cassava", "amount": 500, "unit": "g", "flavour": "none", "type": "Produce", "cons": "SOLID" },
-        { "name": "sugar", "amount": 150, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
-        { "name": "coconut milk", "amount": 250, "unit": "ml", "flavour": "creamy", "type": "Canned and Jarred", "cons": "LIQUID" },
-        { "name": "coconut oil", "amount": 30, "unit": "ml", "flavour": "none", "type": "Oil, Vinegar, Salad Dressing", "cons": "LIQUID" },
-        { "name": "salt", "amount": 2, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" },
-        { "name": "tapioca starch", "amount": 20, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "turmeric powder", "amount": 2, "unit": "g", "flavour": "spice", "type": "Spices and Seasonings", "cons": "SOLID" }
-        ]
-    },
-    {
-        "name": "Kue Lumpur",
-        "family": "kue_lumpur",
-        "servings": 10,
-        "source": "https://arc.net/l/quote/tovmpyqw",
-        "ingredients": [
-        { "name": "mashed potato", "amount": 250, "unit": "g", "flavour": "none", "type": "Produce", "cons": "SOLID" },
-        { "name": "plain flour", "amount": 100, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "sugar", "amount": 120, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
-        { "name": "eggs", "amount": 150, "unit": "g", "flavour": "none", "type": "Milk, Eggs, Other Dairy", "cons": "SOLID" },
-        { "name": "coconut milk", "amount": 300, "unit": "ml", "flavour": "creamy", "type": "Canned and Jarred", "cons": "LIQUID" },
-        { "name": "water", "amount": 100, "unit": "ml", "flavour": "none", "type": "Beverages", "cons": "LIQUID" },
-        { "name": "vanilla extract", "amount": 5, "unit": "ml", "flavour": "aromatic", "type": "Baking", "cons": "LIQUID" },
-        { "name": "butter", "amount": 50, "unit": "g", "flavour": "creamy", "type": "Milk, Eggs, Other Dairy", "cons": "SOLID" },
-        { "name": "salt", "amount": 1, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" },
-        { "name": "nutmeg", "amount": 1, "unit": "g", "flavour": "spice", "type": "Spices and Seasonings", "cons": "SOLID" }
-        ]
-    },
-    {
-        "name": "Dadar Gulung",
-        "family": "dadar_gulung",
-        "servings": 8,
-        "source": "https://arc.net/l/quote/fgtwafkg",
-        "ingredients": [
-        { "name": "plain flour", "amount": 150, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "coconut milk", "amount": 200, "unit": "ml", "flavour": "creamy", "type": "Canned and Jarred", "cons": "LIQUID" },
-        { "name": "water", "amount": 300, "unit": "ml", "flavour": "none", "type": "Beverages", "cons": "LIQUID" },
-        { "name": "eggs", "amount": 50, "unit": "g", "flavour": "none", "type": "Milk, Eggs, Other Dairy", "cons": "SOLID" },
-        { "name": "pandan paste", "amount": 15, "unit": "g", "flavour": "aromatic", "type": "Spices and Seasonings", "cons": "SOLID" },
-        { "name": "vegetable oil", "amount": 15, "unit": "ml", "flavour": "none", "type": "Oil, Vinegar, Salad Dressing", "cons": "LIQUID" },
-        { "name": "grated coconut", "amount": 150, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "palm sugar", "amount": 100, "unit": "g", "flavour": "sweet", "type": "Ethnic Foods", "cons": "SOLID" },
-        { "name": "salt", "amount": 1, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" }
-        ]
-    },
-    {
-        "name": "Kue Serabi Kinca",
-        "family": "serabi",
-        "servings": 6,
-        "source": "https://arc.net/l/quote/aokwbjrg",
-        "ingredients": [
-        { "name": "wheat flour", "amount": 100, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "rice flour", "amount": 100, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "sugar", "amount": 40, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
-        { "name": "instant yeast", "amount": 3, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "baking powder", "amount": 3, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "salt", "amount": 2, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" },
-        { "name": "eggs", "amount": 50, "unit": "g", "flavour": "none", "type": "Milk, Eggs, Other Dairy", "cons": "SOLID" },
-        { "name": "coconut milk", "amount": 400, "unit": "ml", "flavour": "creamy", "type": "Canned and Jarred", "cons": "LIQUID" },
-        { "name": "pandan paste", "amount": 10, "unit": "g", "flavour": "aromatic", "type": "Spices and Seasonings", "cons": "SOLID" },
-        { "name": "water", "amount": 150, "unit": "ml", "flavour": "none", "type": "Beverages", "cons": "LIQUID" },
-        { "name": "palm sugar", "amount": 120, "unit": "g", "flavour": "sweet", "type": "Ethnic Foods", "cons": "SOLID" },
         { "name": "pandan leaf", "amount": 10, "unit": "g", "flavour": "aromatic", "type": "Spices and Seasonings", "cons": "SOLID" },
-        { "name": "sago starch", "amount": 15, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" }
-        ]
-    },
-    {
-        "name": "Kue Martabak (sweet)",
-        "family": "martabak",
-        "servings": 6,
-        "source": "https://arc.net/l/quote/hlclfbok",
-        "ingredients": [
-        { "name": "plain flour", "amount": 250, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "instant yeast", "amount": 4, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "sugar", "amount": 60, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
-        { "name": "coconut milk", "amount": 250, "unit": "ml", "flavour": "creamy", "type": "Canned and Jarred", "cons": "LIQUID" },
-        { "name": "eggs", "amount": 100, "unit": "g", "flavour": "none", "type": "Milk, Eggs, Other Dairy", "cons": "SOLID" },
-        { "name": "baking soda", "amount": 2, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "peanut", "amount": 60, "unit": "g", "flavour": "none", "type": "Nuts", "cons": "SOLID" },
-        { "name": "sesame seeds", "amount": 15, "unit": "g", "flavour": "none", "type": "Spices and Seasonings", "cons": "SOLID" },
-        { "name": "chocolate sprinkles", "amount": 30, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
-        { "name": "grated cheese", "amount": 50, "unit": "g", "flavour": "creamy", "type": "Cheese", "cons": "SOLID" },
-        { "name": "sweetened condensed milk", "amount": 60, "unit": "ml", "flavour": "sweet", "type": "Milk, Eggs, Other Dairy", "cons": "LIQUID" }
-        ]
-    },
-    {
-        "name": "Kue Cucur Jawa",
-        "family": "kue_cucur",
-        "servings": 6,
-        "source": "https://arc.net/l/quote/fzgrgqwr",
-        "ingredients": [
-        { "name": "plain flour", "amount": 100, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "rice flour", "amount": 150, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "palm sugar", "amount": 150, "unit": "g", "flavour": "sweet", "type": "Ethnic Foods", "cons": "SOLID" },
-        { "name": "coconut water", "amount": 150, "unit": "ml", "flavour": "sweet", "type": "Beverages", "cons": "LIQUID" },
-        { "name": "salt", "amount": 1, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" },
-        { "name": "pandan leaf", "amount": 10, "unit": "g", "flavour": "aromatic", "type": "Spices and Seasonings", "cons": "SOLID" },
-        { "name": "pandan essence", "amount": 2, "unit": "ml", "flavour": "aromatic", "type": "Baking", "cons": "LIQUID" },
-        { "name": "vegetable oil", "amount": 300, "unit": "ml", "flavour": "none", "type": "Oil, Vinegar, Salad Dressing", "cons": "LIQUID" }
-        ]
-    },
-    {
-        "name": "Kue Mangkok",
-        "family": "kue_mangkok",
-        "servings": 9,
-        "source": "https://arc.net/l/quote/ehrnddai",
-        "ingredients": [
-        { "name": "self-raising flour", "amount": 200, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "sugar", "amount": 150, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
-        { "name": "water", "amount": 300, "unit": "ml", "flavour": "none", "type": "Beverages", "cons": "LIQUID" },
-        { "name": "coconut cream", "amount": 100, "unit": "ml", "flavour": "creamy", "type": "Canned and Jarred", "cons": "LIQUID" },
-        { "name": "grated coconut", "amount": 50, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "vanilla sugar", "amount": 8, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
-        { "name": "food colouring", "amount": 1, "unit": "ml", "flavour": "none", "type": "Baking", "cons": "LIQUID" },
-        { "name": "salt", "amount": 1, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" }
-        ]
-    },
-    {
-        "name": "Kue Lapis",
-        "family": "kue_lapis",
-        "servings": 8,
-        "source": "https://arc.net/l/quote/ddhhofcf",
-        "ingredients": [
-        { "name": "coconut milk", "amount": 500, "unit": "ml", "flavour": "creamy", "type": "Canned and Jarred", "cons": "LIQUID" },
-        { "name": "sugar", "amount": 150, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
-        { "name": "vanilla extract", "amount": 5, "unit": "ml", "flavour": "aromatic", "type": "Baking", "cons": "LIQUID" },
-        { "name": "water", "amount": 200, "unit": "ml", "flavour": "none", "type": "Beverages", "cons": "LIQUID" },
-        { "name": "tapioca starch", "amount": 150, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "rice flour", "amount": 100, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "salt", "amount": 2, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" }
-        ]
-    },
-    {
-        "name": "Kue Lapis Singkong Agar-Agar (Kukus)",
-        "family": "lapis_singkong",
-        "servings": 10,
-        "source": "https://arc.net/l/quote/yuzqzezo",
-        "ingredients": [
-        { "name": "grated cassava", "amount": 500, "unit": "g", "flavour": "none", "type": "Produce", "cons": "SOLID" },
-        { "name": "grated coconut", "amount": 100, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "agar-agar", "amount": 7, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "sugar", "amount": 150, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
-        { "name": "food colouring", "amount": 3, "unit": "ml", "flavour": "none", "type": "Baking", "cons": "LIQUID" },
-        { "name": "salt", "amount": 2, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" },
-        { "name": "vanilla extract", "amount": 3, "unit": "ml", "flavour": "aromatic", "type": "Baking", "cons": "LIQUID" }
-        ]
-    },
-    {
-        "name": "Kue Kacamata (Mata Roda)",
-        "family": "kue_kacamata",
-        "servings": 10,
-        "source": "https://arc.net/l/quote/yuzqzezo",
-        "ingredients": [
-        { "name": "grated cassava", "amount": 400, "unit": "g", "flavour": "none", "type": "Produce", "cons": "SOLID" },
-        { "name": "tapioca starch", "amount": 50, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
         { "name": "sugar", "amount": 100, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
-        { "name": "kepok banana", "amount": 200, "unit": "g", "flavour": "sweet", "type": "Produce", "cons": "SOLID" },
-        { "name": "vanilla extract", "amount": 3, "unit": "ml", "flavour": "aromatic", "type": "Baking", "cons": "LIQUID" },
-        { "name": "salt", "amount": 2, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" },
-        { "name": "food colouring", "amount": 1, "unit": "ml", "flavour": "none", "type": "Baking", "cons": "LIQUID" },
-        { "name": "banana leaf", "amount": 20, "unit": "g", "flavour": "none", "type": "Produce", "cons": "SOLID" },
-        { "name": "grated coconut", "amount": 100, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" }
-        ]
-    },
-    {
-        "name": "Singkong Santan Agar-Agar (Kukus)",
-        "family": "singkong_santan",
-        "servings": 10,
-        "source": "https://arc.net/l/quote/yuzqzezo",
-        "ingredients": [
-        { "name": "grated cassava", "amount": 500, "unit": "g", "flavour": "none", "type": "Produce", "cons": "SOLID" },
-        { "name": "sugar", "amount": 150, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
-        { "name": "coconut milk", "amount": 400, "unit": "ml", "flavour": "creamy", "type": "Canned and Jarred", "cons": "LIQUID" },
-        { "name": "salt", "amount": 2, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" },
-        { "name": "vanilla extract", "amount": 3, "unit": "ml", "flavour": "aromatic", "type": "Baking", "cons": "LIQUID" },
-        { "name": "agar-agar", "amount": 7, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" }
-        ]
-    },
-    {
-        "name": "Kue Cantik Manis",
-        "family": "kue_cantik_manis",
-        "servings": 10,
-        "source": "https://arc.net/l/quote/oqyzvycr",
-        "ingredients": [
-        { "name": "hunkwe flour", "amount": 60, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "coconut milk", "amount": 400, "unit": "ml", "flavour": "creamy", "type": "Canned and Jarred", "cons": "LIQUID" },
-        { "name": "pandan leaf", "amount": 10, "unit": "g", "flavour": "aromatic", "type": "Spices and Seasonings", "cons": "SOLID" },
-        { "name": "salt", "amount": 2, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" },
-        { "name": "sugar", "amount": 100, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
-        { "name": "vanilla powder", "amount": 2, "unit": "g", "flavour": "aromatic", "type": "Baking", "cons": "SOLID" },
-        { "name": "sago pearls", "amount": 30, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "water", "amount": 500, "unit": "ml", "flavour": "none", "type": "Beverages", "cons": "LIQUID" }
-        ]
-    },
-    {
-        "name": "Kue Dongkal",
-        "family": "kue_dongkal",
-        "servings": 8,
-        "source": "https://arc.net/l/quote/sewujsof",
-        "ingredients": [
-        { "name": "rice flour", "amount": 250, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "grated coconut", "amount": 150, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "sugar", "amount": 50, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
-        { "name": "vanilla powder", "amount": 2, "unit": "g", "flavour": "aromatic", "type": "Baking", "cons": "SOLID" },
-        { "name": "salt", "amount": 2, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" },
-        { "name": "palm sugar", "amount": 100, "unit": "g", "flavour": "sweet", "type": "Ethnic Foods", "cons": "SOLID" }
-        ]
-    },
-    {
-        "name": "Klepon",
-        "family": "klepon",
-        "servings": 40,
-        "source": "https://arc.net/l/quote/wxbqjpyk",
-        "ingredients": [
-        { "name": "glutinous rice flour", "amount": 250, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "sugar", "amount": 20, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
-        { "name": "salt", "amount": 2, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" },
-        { "name": "pandan juice", "amount": 40, "unit": "ml", "flavour": "aromatic", "type": "Beverages", "cons": "LIQUID" },
-        { "name": "water", "amount": 150, "unit": "ml", "flavour": "none", "type": "Beverages", "cons": "LIQUID" },
-        { "name": "palm sugar", "amount": 100, "unit": "g", "flavour": "sweet", "type": "Ethnic Foods", "cons": "SOLID" },
-        { "name": "grated coconut", "amount": 150, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" }
-        ]
-    },
-    {
-        "name": "Onde-onde",
-        "family": "onde_onde",
-        "servings": 20,
-        "source": "https://arc.net/l/quote/bwmvqvxr",
-        "ingredients": [
-        { "name": "glutinous rice flour", "amount": 300, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "sugar", "amount": 50, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
-        { "name": "pandan juice", "amount": 100, "unit": "ml", "flavour": "aromatic", "type": "Beverages", "cons": "LIQUID" },
-        { "name": "vegetable oil", "amount": 300, "unit": "ml", "flavour": "none", "type": "Oil, Vinegar, Salad Dressing", "cons": "LIQUID" },
-        { "name": "dried blue pea flower", "amount": 3, "unit": "g", "flavour": "none", "type": "Spices and Seasonings", "cons": "SOLID" },
-        { "name": "water", "amount": 150, "unit": "ml", "flavour": "none", "type": "Beverages", "cons": "LIQUID" },
-        { "name": "palm sugar", "amount": 100, "unit": "g", "flavour": "sweet", "type": "Ethnic Foods", "cons": "SOLID" },
-        { "name": "grated coconut", "amount": 100, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "salt", "amount": 2, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" }
-        ]
-    },
-    {
-        "name": "Dodol",
-        "family": "dodol",
-        "servings": 20,
-        "source": "https://arc.net/l/quote/bnhohpxz",
-        "ingredients": [
-        { "name": "grated coconut", "amount": 200, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "rice flour", "amount": 150, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
-        { "name": "palm sugar", "amount": 400, "unit": "g", "flavour": "sweet", "type": "Ethnic Foods", "cons": "SOLID" },
-        { "name": "salt", "amount": 2, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" },
-        { "name": "sugar", "amount": 100, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" },
-        { "name": "cashew nuts", "amount": 50, "unit": "g", "flavour": "none", "type": "Nuts", "cons": "SOLID" },
-        { "name": "cardamom", "amount": 2, "unit": "g", "flavour": "spice", "type": "Spices and Seasonings", "cons": "SOLID" }
-        ]
-    },
-    {
-        "name": "Wajik Ketan Gula Merah",
-        "family": "wajik",
-        "servings": 20,
-        "source": "https://arc.net/l/quote/oryhqtkr",
-        "ingredients": [
-        { "name": "glutinous rice", "amount": 500, "unit": "g", "flavour": "none", "type": "Pasta and Rice", "cons": "SOLID" },
-        { "name": "coconut milk", "amount": 500, "unit": "ml", "flavour": "creamy", "type": "Canned and Jarred", "cons": "LIQUID" },
-        { "name": "pandan leaf", "amount": 10, "unit": "g", "flavour": "aromatic", "type": "Spices and Seasonings", "cons": "SOLID" },
-        { "name": "salt", "amount": 3, "unit": "g", "flavour": "salt", "type": "Spices and Seasonings", "cons": "SOLID" },
-        { "name": "palm sugar", "amount": 250, "unit": "g", "flavour": "sweet", "type": "Ethnic Foods", "cons": "SOLID" },
-        { "name": "sugar", "amount": 50, "unit": "g", "flavour": "sweet", "type": "Baking", "cons": "SOLID" }
+        { "name": "glutinous rice flour", "amount": 100, "unit": "g", "flavour": "none", "type": "Baking", "cons": "SOLID" },
+        { "name": "peanut", "amount": 50, "unit": "g", "flavour": "none", "type": "Nuts", "cons": "SOLID" },
+        { "name": "food colouring", "amount": 0.1, "unit": "ml", "flavour": "none", "type": "Baking", "cons": "LIQUID" }
         ]
     }
-    ]
+]
