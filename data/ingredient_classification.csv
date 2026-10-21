@@ -10,7 +10,7 @@ sea salt [recommended],salt,salts,False
 coconut,creamy,seeds_nuts_dried_fruits,False
 turmeric powder,spice,spices,True
 smooth peanut butter,creamy,fats,False
-cinnamon,aromatic,spices,False
+cinnamon,aromatic,spices,True
 wheat germ,none,starches,False
 lemons,acidity,produce,False
 soda water,none,liquids,False
@@ -155,7 +155,7 @@ crunchy peanut butter,creamy,fats,False
 heavy cream,creamy,liquids,False
 vanilla extract,aromatic,liquids,False
 th pinch of baking soda [less than tsp],none,leaving_agents,False
-ginger root,spice,spices,False
+ginger root,spice,spices,True
 full cream milk,creamy,liquids,False
 lemon kool-aid,acidity,sugars,False
 egg,none,binders,False
@@ -163,7 +163,7 @@ spectrum non-hydrogenated shortening,none,fats,False
 chocolate syrup,sweet,sugars,False
 candied orange peel,sweet,seeds_nuts_dried_fruits,False
 oats flour,none,starches,False
-ginger powder,spice,spices,False
+ginger powder,spice,spices,True
 oil,none,fats,False
 duncan hines classic decadent cake mix,sweet,starches,False
 walnuts,none,seeds_nuts_dried_fruits,False
@@ -172,7 +172,7 @@ pandan paste,aromatic,spices,True
 xanthan gum,none,binders,False
 sago pearls,none,starches,True
 espresso,bitter,liquids,False
-ginger,spice,spices,False
+ginger,spice,spices,True
 slivered almonds,none,seeds_nuts_dried_fruits,False
 figs,sweet,seeds_nuts_dried_fruits,False
 yogurt,creamy,liquids,False
@@ -307,7 +307,7 @@ caster sugar,sweet,sugars,False
 strawberry,sweet,produce,False
 hazlenut meal,none,seeds_nuts_dried_fruits,False
 blanched almond flour,none,seeds_nuts_dried_fruits,False
-ground ginger,spice,spices,False
+ground ginger,spice,spices,True
 egg whites,none,binders,False
 shortening,none,fats,False
 coconut water,sweet,liquids,False
@@ -318,7 +318,7 @@ turbinado sugar,sweet,sugars,False
 lemon extract,aromatic,liquids,False
 ground cloves,spice,spices,True
 cream cheese,creamy,fats,False
-ground cinnamon,aromatic,spices,False
+ground cinnamon,aromatic,spices,True
 ap flour,none,starches,False
 food coloring,none,liquids,False
 bananas,sweet,produce,False
