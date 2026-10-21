@@ -4366,8 +4366,8 @@
                 "cons": "SOLID"
             },
             {
-                "name": "add a hershey's chocolate kiss on top as done",
-                "amount": 236.588,
+                "name": "Hershey's chocolate kiss",
+                "amount": 200,
                 "unit": "ml",
                 "type": "Sweet Snacks",
                 "cons": "SOLID"
@@ -5693,13 +5693,6 @@
                 "amount": 2.0,
                 "unit": "Tbsps",
                 "type": "Baking",
-                "cons": "SOLID"
-            },
-            {
-                "name": "you can use store purchased",
-                "amount": 236.588,
-                "unit": "g",
-                "type": "Frozen",
                 "cons": "SOLID"
             },
             {
